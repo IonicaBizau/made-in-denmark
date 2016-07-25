@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -3169,6 +3170,63 @@
               "2",
               "[@mortennobel](https://github.com/mortennobel)/[**PolyPlane**](https://github.com/mortennobel/PolyPlane)",
               "Simple interactive plane visualization using kick",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "40",
+              "[@tonybeltramelli](https://github.com/tonybeltramelli)/[**Air-Kinect-Gesture-L…**](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib)",
+              "Air Kinect Gesture Library",
+              ""
+            ],
+            [
+              "3",
+              "[@lindborg](https://github.com/lindborg)/[**Nautilida**](https://github.com/lindborg/Nautilida)",
+              "ActionScript 3.0 platform based Game Framework. Created for high dynamic controls and extreme visual game designs.",
+              "[:arrow_upper_right:](http://www.lindborg.dk/nautilida-framework/)"
+            ],
+            [
+              "2",
+              "[@Joony](https://github.com/Joony)/[**ByteMyAS**](https://github.com/Joony/ByteMyAS)",
+              "A toolkit for editing ActionScript bytecode",
+              ""
+            ],
+            [
+              "2",
+              "[@lindborg](https://github.com/lindborg)/[**Sepiida**](https://github.com/lindborg/Sepiida)",
+              "ActionScript 3.0 center-stage dynamic Game Framework",
+              "[:arrow_upper_right:](http://www.lindborg.dk/sepiida-framework/)"
+            ],
+            [
+              "2",
+              "[@jamalsoueidan](https://github.com/jamalsoueidan)/[**EngineFlexApplicatio…**](https://github.com/jamalsoueidan/EngineFlexApplication)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jamalsoueidan](https://github.com/jamalsoueidan)/[**SmartFoxClient**](https://github.com/jamalsoueidan/SmartFoxClient)",
+              "A small framework to make integration with smartfox socket server easier.",
+              ""
+            ],
+            [
+              "2",
+              "[@jamalsoueidan](https://github.com/jamalsoueidan)/[**GameServer**](https://github.com/jamalsoueidan/GameServer)",
+              "I'm building ruby socket server that can easily communicate with actionsript 3, so I can build flash games easily.",
               ""
             ]
           ]
