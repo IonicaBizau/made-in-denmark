@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[C](undefined)"
         ]
       },
       {
@@ -2706,6 +2707,279 @@
               "[@peterbrinck](https://github.com/peterbrinck)/[**cockpit-starter**](https://github.com/peterbrinck/cockpit-starter)",
               "Cockpit Starter -",
               "[:arrow_upper_right:](https://peterbrinck.github.io/cockpit-starter/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "76",
+              "[@csete](https://github.com/csete)/[**rtlizer**](https://github.com/csete/rtlizer)",
+              "Simple spectrum analyzer",
+              "[:arrow_upper_right:](http://www.oz9aec.net/index.php/beaglebone/480-rtlizer)"
+            ],
+            [
+              "74",
+              "[@csete](https://github.com/csete)/[**bonecam**](https://github.com/csete/bonecam)",
+              "Beaglebone-based IP camera.",
+              "[:arrow_upper_right:](http://www.oz9aec.net/index.php/beaglebone/476-turning-the-beaglebone-into-a-high-definition-ip-camera)"
+            ],
+            [
+              "54",
+              "[@netoptimizer](https://github.com/netoptimizer)/[**network-testing**](https://github.com/netoptimizer/network-testing)",
+              "Network Testing Tools for testing the Linux network stack",
+              ""
+            ],
+            [
+              "45",
+              "[@esmil](https://github.com/esmil)/[**lem**](https://github.com/esmil/lem)",
+              "A Lua Event Machine",
+              ""
+            ],
+            [
+              "36",
+              "[@csete](https://github.com/csete)/[**qthid**](https://github.com/csete/qthid)",
+              "An evolution of the Qt-based Funcube Dongle HID controller.",
+              "[:arrow_upper_right:](http://www.oz9aec.net/index.php/funcube-dongle/qthid-fcd-controller)"
+            ],
+            [
+              "27",
+              "[@esmil](https://github.com/esmil)/[**musl**](https://github.com/esmil/musl)",
+              "",
+              "[:arrow_upper_right:](http://www.etalabs.net/musl/)"
+            ],
+            [
+              "25",
+              "[@csete](https://github.com/csete)/[**uvccapture**](https://github.com/csete/uvccapture)",
+              "My fork and hacks of uvccapture (inactive).",
+              ""
+            ],
+            [
+              "25",
+              "[@esmil](https://github.com/esmil)/[**arduino-netboot**](https://github.com/esmil/arduino-netboot)",
+              "A TFTP bootloader for the Arduino Ethernet",
+              ""
+            ],
+            [
+              "21",
+              "[@netoptimizer](https://github.com/netoptimizer)/[**prototype-kernel**](https://github.com/netoptimizer/prototype-kernel)",
+              "Prototyping kernel development work outside mainline",
+              ""
+            ],
+            [
+              "20",
+              "[@csete](https://github.com/csete)/[**gpredict**](https://github.com/csete/gpredict)",
+              "Not the official gpredict repository. Please use Sourceforge",
+              "[:arrow_upper_right:](https://sourceforge.net/projects/gpredict/)"
+            ],
+            [
+              "16",
+              "[@ahf](https://github.com/ahf)/[**irssi-lua**](https://github.com/ahf/irssi-lua)",
+              "Lua bindings for Irssi",
+              "[:arrow_upper_right:](http://www.irssi.org/)"
+            ],
+            [
+              "11",
+              "[@ahf](https://github.com/ahf)/[**teneo**](https://github.com/ahf/teneo)",
+              "Reproducible OpenSSH Keys",
+              ""
+            ],
+            [
+              "8",
+              "[@csete](https://github.com/csete)/[**gr-fcd**](https://github.com/csete/gr-fcd)",
+              "This repository is obsolete since gr-fcd is now included in GNU Radio.",
+              "[:arrow_upper_right:](http://gnuradio.org/)"
+            ],
+            [
+              "8",
+              "[@netoptimizer](https://github.com/netoptimizer)/[**CPAN-IPTables-libipt…**](https://github.com/netoptimizer/CPAN-IPTables-libiptc)",
+              "Fast Perl interface to the Netfilter/iptables C-library libiptc",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/IPTables-libiptc/)"
+            ],
+            [
+              "7",
+              "[@esmil](https://github.com/esmil)/[**voorhees**](https://github.com/esmil/voorhees)",
+              "Yet another JSON parser for Lua",
+              "[:arrow_upper_right:](http://github.com/esmil/voorhees)"
+            ],
+            [
+              "7",
+              "[@csete](https://github.com/csete)/[**aptdec**](https://github.com/csete/aptdec)",
+              "NOAA APT decoder (WIP)",
+              ""
+            ],
+            [
+              "7",
+              "[@esmil](https://github.com/esmil)/[**lem-dbus**](https://github.com/esmil/lem-dbus)",
+              "DBus module for the Lua Event Machine",
+              ""
+            ],
+            [
+              "7",
+              "[@MatiasBjorling](https://github.com/MatiasBjorling)/[**lightnvm-moved-to-Op…**](https://github.com/MatiasBjorling/lightnvm-moved-to-OpenChannelSSD-Linux)",
+              "LightNVM: A hostside driver for open-channel SSDs. Moved to https://github.com/OpenChannelSSD ",
+              "[:arrow_upper_right:](https://github.com/OpenChannelSSD)"
+            ],
+            [
+              "6",
+              "[@esmil](https://github.com/esmil)/[**lua-csv**](https://github.com/esmil/lua-csv)",
+              "A CSV parser for Lua",
+              ""
+            ],
+            [
+              "6",
+              "[@esmil](https://github.com/esmil)/[**msp3n1s**](https://github.com/esmil/msp3n1s)",
+              "..because no one suggested a better name for my MSP430 code",
+              ""
+            ],
+            [
+              "4",
+              "[@ahf](https://github.com/ahf)/[**ircd-ratbox**](https://github.com/ahf/ircd-ratbox)",
+              "Experimental Ratbox Fork with WebSocket Support",
+              ""
+            ],
+            [
+              "4",
+              "[@esmil](https://github.com/esmil)/[**stupidterm**](https://github.com/esmil/stupidterm)",
+              "A Stupid Terminal",
+              ""
+            ],
+            [
+              "4",
+              "[@esmil](https://github.com/esmil)/[**oniudra-headers**](https://github.com/esmil/oniudra-headers)",
+              "A collection of C inline functions and macros for programming the Arduino",
+              ""
+            ],
+            [
+              "4",
+              "[@esmil](https://github.com/esmil)/[**lem-sqlite3**](https://github.com/esmil/lem-sqlite3)",
+              "SQLite3 library for the Lua Event Machine",
+              ""
+            ],
+            [
+              "4",
+              "[@csete](https://github.com/csete)/[**fcdctl**](https://github.com/csete/fcdctl)",
+              "Command line utility for Funcube Dongle Pro and Pro+",
+              ""
+            ],
+            [
+              "4",
+              "[@jenswilly](https://github.com/jenswilly)/[**AVR-multiremote**](https://github.com/jenswilly/AVR-multiremote)",
+              "Firmware for the BTLE IR multi-remote project",
+              ""
+            ],
+            [
+              "4",
+              "[@csete](https://github.com/csete)/[**ic706-remote**](https://github.com/csete/ic706-remote)",
+              "Home made remote rig setup for the IC-706",
+              ""
+            ],
+            [
+              "3",
+              "[@paurkedal](https://github.com/paurkedal)/[**culibs**](https://github.com/paurkedal/culibs)",
+              "Garbage Collected C Libraries",
+              "[:arrow_upper_right:](http://www.eideticdew.org/culibs/)"
+            ],
+            [
+              "3",
+              "[@jenswilly](https://github.com/jenswilly)/[**AVR-enc28j60-pachube**](https://github.com/jenswilly/AVR-enc28j60-pachube)",
+              "AVR Libc-based project for ATmega328/-168 sending data to Pachube using an ENC28J60 with the Tuxgraphics TCP library.",
+              ""
+            ],
+            [
+              "3",
+              "[@ahf](https://github.com/ahf)/[**irssi-old**](https://github.com/ahf/irssi-old)",
+              "Old Github clone of the Irssi codebase (before the move to Github).",
+              ""
+            ],
+            [
+              "3",
+              "[@esmil](https://github.com/esmil)/[**lem-postgres**](https://github.com/esmil/lem-postgres)",
+              "PostgreSQL library for the Lua Event Machine",
+              ""
+            ],
+            [
+              "3",
+              "[@ahf](https://github.com/ahf)/[**luke**](https://github.com/ahf/luke)",
+              "Mirror of http://lab.baconsvin.org/ahf/luke",
+              ""
+            ],
+            [
+              "2",
+              "[@jledet](https://github.com/jledet)/[**catwoman**](https://github.com/jledet/catwoman)",
+              "CATWOMAN: Inter-Flow Network Coding for the B.A.T.M.A.N routing protocol",
+              ""
+            ],
+            [
+              "2",
+              "[@jledet](https://github.com/jledet)/[**batman-adv-nc**](https://github.com/jledet/batman-adv-nc)",
+              "Network Coding for the B.A.T.M.A.N. routing protocol",
+              ""
+            ],
+            [
+              "2",
+              "[@jenswilly](https://github.com/jenswilly)/[**AVR-wifitest**](https://github.com/jenswilly/AVR-wifitest)",
+              "Test of ATmega + GS1011M integration",
+              ""
+            ],
+            [
+              "2",
+              "[@jenswilly](https://github.com/jenswilly)/[**AVR-RGBTumbler**](https://github.com/jenswilly/AVR-RGBTumbler)",
+              "Accelerometer controlled RGB LED using an AVR ATmega MCU.",
+              "[:arrow_upper_right:](http://atomslagstyrken.dk/arduino/tag/rgbtumbler/)"
+            ],
+            [
+              "2",
+              "[@jenswilly](https://github.com/jenswilly)/[**LPC11U24-TCS3200**](https://github.com/jenswilly/LPC11U24-TCS3200)",
+              "A test project for NXP's LPC11U24 ARM Cortex-M0 processor testing the use of multiple timers, UART and GPIO",
+              ""
+            ],
+            [
+              "2",
+              "[@jenswilly](https://github.com/jenswilly)/[**LPC11U24-GPSTracker**](https://github.com/jenswilly/LPC11U24-GPSTracker)",
+              "A GSM enabled GPS tracker for NXP LPC11U24",
+              "[:arrow_upper_right:](http://jenswilly.dk/tag/gps-tracker/)"
+            ],
+            [
+              "2",
+              "[@esmil](https://github.com/esmil)/[**lua-gettimeofday**](https://github.com/esmil/lua-gettimeofday)",
+              "A short Lua module to export POSIX gettimeofday()",
+              ""
+            ],
+            [
+              "2",
+              "[@esmil](https://github.com/esmil)/[**lua-ircparse**](https://github.com/esmil/lua-ircparse)",
+              "A Lua module for parsing IRC lines",
+              ""
+            ],
+            [
+              "2",
+              "[@esmil](https://github.com/esmil)/[**lem-evdev**](https://github.com/esmil/lem-evdev)",
+              "A Linux event device library for the Lua Event Machine",
+              ""
+            ],
+            [
+              "2",
+              "[@ahf](https://github.com/ahf)/[**irc**](https://github.com/ahf/irc)",
+              "IRC 2.11 Import from CVS",
+              ""
+            ],
+            [
+              "2",
+              "[@esmil](https://github.com/esmil)/[**lem-ssl**](https://github.com/esmil/lem-ssl)",
+              "Secure socket library for the Lua Event Machine",
+              ""
             ]
           ]
         }
