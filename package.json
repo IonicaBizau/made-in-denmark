@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -2229,6 +2230,453 @@
               "2",
               "[@MizzleDK](https://github.com/MizzleDK)/[**traktr-old**](https://github.com/MizzleDK/traktr-old)",
               "Abandoned project - was supposed to be a simple Trakt client",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "139",
+              "[@ploeh](https://github.com/ploeh)/[**Hyprlinkr**](https://github.com/ploeh/Hyprlinkr)",
+              "A URI building helper library for ASP.NET Web API",
+              ""
+            ],
+            [
+              "131",
+              "[@fehaar](https://github.com/fehaar)/[**FFWD**](https://github.com/fehaar/FFWD)",
+              "This is the FFWD framework for XNA, that allows you to port Unity3D games to XNA for use on WP7 or XBox360 (XBLIG)",
+              ""
+            ],
+            [
+              "119",
+              "[@ploeh](https://github.com/ploeh)/[**Albedo**](https://github.com/ploeh/Albedo)",
+              "A .NET library targeted at making Reflection programming more consistent, using a common set of abstractions and utilities",
+              ""
+            ],
+            [
+              "111",
+              "[@LindaLawton](https://github.com/LindaLawton)/[**Google-Dotnet-Sample…**](https://github.com/LindaLawton/Google-Dotnet-Samples)",
+              "Sample Projects for using the Google .net client lib - https://code.google.com/p/google-api-dot…",
+              "[:arrow_upper_right:](http://daimto.com/)"
+            ],
+            [
+              "97",
+              "[@AngryAnt](https://github.com/AngryAnt)/[**UnityHacks**](https://github.com/AngryAnt/UnityHacks)",
+              "Slides and examples from the \"Unity Hacks\" talk from Unite Korea, Japan, China and Nordic 13.",
+              ""
+            ],
+            [
+              "88",
+              "[@AngryAnt](https://github.com/AngryAnt)/[**Path**](https://github.com/AngryAnt/Path)",
+              "Pathfinding library for the Unity engine. Issue tracking, wiki and releases are available on the release project URL:",
+              "[:arrow_upper_right:](https://github.com/AngryAnt/Path-release/)"
+            ],
+            [
+              "65",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**Cheesebaron.MvxPlugi…**](https://github.com/Cheesebaron/Cheesebaron.MvxPlugins)",
+              "A collection of plugins for MvvmCross",
+              ""
+            ],
+            [
+              "63",
+              "[@improvedk](https://github.com/improvedk)/[**OrcaMDF**](https://github.com/improvedk/OrcaMDF)",
+              "A C# parser for MDF files. Allows you to read tables, metadata and indexes from MDF files without it being attached to a running SQL Server instance.",
+              "[:arrow_upper_right:](http://improve.dk/archive/2011/05/03/introducing-orcamdf.aspx)"
+            ],
+            [
+              "56",
+              "[@MartinF](https://github.com/MartinF)/[**Dynamo.IoC**](https://github.com/MartinF/Dynamo.IoC)",
+              "Another IOC container - but faster!",
+              "[:arrow_upper_right:](http://martinf.github.io/Dynamo.IoC)"
+            ],
+            [
+              "55",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**ViewPagerIndicator**](https://github.com/Cheesebaron/ViewPagerIndicator)",
+              "Port of Android-ViewPagerIndicator to Xamarin.Android.",
+              ""
+            ],
+            [
+              "53",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**Xam.Forms.Mvx**](https://github.com/Cheesebaron/Xam.Forms.Mvx)",
+              "Just a demo showing Xamarin.Forms working with MvvmCross",
+              ""
+            ],
+            [
+              "45",
+              "[@AngryAnt](https://github.com/AngryAnt)/[**PracticalAIinUnity**](https://github.com/AngryAnt/PracticalAIinUnity)",
+              "Slides and examples from the \"Practical AI in Unity\" talk from Unite Seattle 2014. Presentation recording at https://www.youtube.com/watch?v=hhByGZZb…",
+              ""
+            ],
+            [
+              "45",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**SlidingMenuSharp**](https://github.com/Cheesebaron/SlidingMenuSharp)",
+              "A direct port of https://github.com/jfeinstein10/SlidingM… to C# to work with Xamarin.Android",
+              ""
+            ],
+            [
+              "41",
+              "[@sitereactor](https://github.com/sitereactor)/[**umbraco-console-exam…**](https://github.com/sitereactor/umbraco-console-example)",
+              "Sample implementation of a Console application using the Umbraco ContentService for creating and saving content",
+              ""
+            ],
+            [
+              "41",
+              "[@Larsjep](https://github.com/Larsjep)/[**monoev3**](https://github.com/Larsjep/monoev3)",
+              "Lego mindstorms EV3 C# library",
+              "[:arrow_upper_right:](http://www.monobrick.dk/software/ev3firmware/)"
+            ],
+            [
+              "41",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**LegacyBar**](https://github.com/Cheesebaron/LegacyBar)",
+              "A port and extention of https://github.com/johannilsson/android-…",
+              ""
+            ],
+            [
+              "31",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**SlidingUpPanel**](https://github.com/Cheesebaron/SlidingUpPanel)",
+              "A port of https://github.com/umano/AndroidSlidingU… to Xamarin.Android",
+              ""
+            ],
+            [
+              "24",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**DrawerSample**](https://github.com/Cheesebaron/DrawerSample)",
+              "A quick and dirty port of http://developer.android.com/training/im… to Xamarin.Android",
+              ""
+            ],
+            [
+              "22",
+              "[@MartinF](https://github.com/MartinF)/[**IOCBattle**](https://github.com/MartinF/IOCBattle)",
+              "IOC Container Performance Comparison",
+              "[:arrow_upper_right:](www.iocbattle.com)"
+            ],
+            [
+              "20",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**FloatingActionButton**](https://github.com/Cheesebaron/FloatingActionButton)",
+              "Port of https://github.com/FaizMalkani/FloatingA…",
+              ""
+            ],
+            [
+              "19",
+              "[@perploug](https://github.com/perploug)/[**UkFest-AngularJS-Dem…**](https://github.com/perploug/UkFest-AngularJS-Demo)",
+              "Demo plugin, showed off at Umbraco Ukfest 2013",
+              ""
+            ],
+            [
+              "19",
+              "[@AngryAnt](https://github.com/AngryAnt)/[**Unity--Network-Code-…**](https://github.com/AngryAnt/Unity--Network-Code-and-You)",
+              "Slides and examples from the \"Unity, Network Code and You\" talk from Unite 12.",
+              ""
+            ],
+            [
+              "16",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**CaptureSignature**](https://github.com/Cheesebaron/CaptureSignature)",
+              "Sample which shows how a drawn signature on the device can be saved to the SDcard utilizing some of the Android SDK API Samples.",
+              ""
+            ],
+            [
+              "16",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**MonoDroid.Horizontal…**](https://github.com/Cheesebaron/MonoDroid.HorizontalPager)",
+              "Mono implementation of the HorizontalPager found here: https://github.com/ysamlan/horizontalpag…",
+              ""
+            ],
+            [
+              "14",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**Cheesebaron.MvvmCros…**](https://github.com/Cheesebaron/Cheesebaron.MvvmCross.Bindings)",
+              "Bindings for MvvmCross",
+              ""
+            ],
+            [
+              "13",
+              "[@davestasiuk](https://github.com/davestasiuk)/[**Exoskeleton2**](https://github.com/davestasiuk/Exoskeleton2)",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "[@fehaar](https://github.com/fehaar)/[**FFWD-Templates**](https://github.com/fehaar/FFWD-Templates)",
+              "This is a supporting project for FFWD that provide templates for getting started with using FFWD",
+              ""
+            ],
+            [
+              "12",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**Cheesebaron.Horizont…**](https://github.com/Cheesebaron/Cheesebaron.HorizontalListView)",
+              "",
+              ""
+            ],
+            [
+              "12",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**SearchView-Sample**](https://github.com/Cheesebaron/SearchView-Sample)",
+              "Sample showing how to Filter ListView's using SearchView and custom Filter implementation.",
+              ""
+            ],
+            [
+              "12",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**MonoDroid.DialogSamp…**](https://github.com/Cheesebaron/MonoDroid.DialogSample)",
+              "Just a bunch of Dialogs using Activity and Fragments.",
+              ""
+            ],
+            [
+              "11",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**WiFiDirectSample**](https://github.com/Cheesebaron/WiFiDirectSample)",
+              "A port of the WiFi P2P sample from Android SDK API 14 samples to Xamarin.Android",
+              ""
+            ],
+            [
+              "10",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**SGTabbedPager**](https://github.com/Cheesebaron/SGTabbedPager)",
+              "Port of https://github.com/graetzer/SGViewPager",
+              ""
+            ],
+            [
+              "10",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**Cheesebaron.FontSamp…**](https://github.com/Cheesebaron/Cheesebaron.FontSample)",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**RottenTomatoSample**](https://github.com/Cheesebaron/RottenTomatoSample)",
+              "A sample showing how to use Portable Class Libraries with async, await, HttpClient and JSON.Net. And as a reference in an Xamarin.Android project.",
+              ""
+            ],
+            [
+              "10",
+              "[@AngryAnt](https://github.com/AngryAnt)/[**Sketch**](https://github.com/AngryAnt/Sketch)",
+              "Modify meshes in your Unity project assets using this simple setup. One-day FAFF project - craves polish. Public domain licensed.",
+              ""
+            ],
+            [
+              "9",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**SmoothProgressBarSha…**](https://github.com/Cheesebaron/SmoothProgressBarSharp)",
+              "A port of https://github.com/castorflex/SmoothProg…",
+              ""
+            ],
+            [
+              "9",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**FoldingLayout**](https://github.com/Cheesebaron/FoldingLayout)",
+              "A port of https://github.com/tibi1712/Folding-Andr…",
+              ""
+            ],
+            [
+              "8",
+              "[@mookid8000](https://github.com/mookid8000)/[**DillPickle**](https://github.com/mookid8000/DillPickle)",
+              "Slim Gherkin-compliant BDD story runner for .NET",
+              "[:arrow_upper_right:](http://mookid.dk/oncode/dillpickle)"
+            ],
+            [
+              "8",
+              "[@ploeh](https://github.com/ploeh)/[**RunningJournalApi**](https://github.com/ploeh/RunningJournalApi)",
+              "The code in this repository is sample/demo code used for Mark Seemann's presentation \"REST with the ASP.NET Web API\"",
+              ""
+            ],
+            [
+              "8",
+              "[@ploeh](https://github.com/ploeh)/[**BookingExercise**](https://github.com/ploeh/BookingExercise)",
+              "Start code for refactoring exercises",
+              ""
+            ],
+            [
+              "8",
+              "[@AngryAnt](https://github.com/AngryAnt)/[**obfuscar**](https://github.com/AngryAnt/obfuscar)",
+              "Clone of https://bitbucket.org/darktable/obfuscar…",
+              ""
+            ],
+            [
+              "7",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**TZStackView**](https://github.com/Cheesebaron/TZStackView)",
+              "Port of https://github.com/tomvanzummeren/TZStac… to Xamarin",
+              ""
+            ],
+            [
+              "7",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**RippleEffect**](https://github.com/Cheesebaron/RippleEffect)",
+              "Port of https://github.com/traex/RippleEffect",
+              ""
+            ],
+            [
+              "7",
+              "[@mookid8000](https://github.com/mookid8000)/[**TypedFactoryExample**](https://github.com/mookid8000/TypedFactoryExample)",
+              "Simple Windows Forms application sample showing a way to implement an MVC pattern using Castle Windsor and TypedFactoryFacility",
+              "[:arrow_upper_right:](http://mookid.dk/oncode/archives/1854)"
+            ],
+            [
+              "7",
+              "[@ploeh](https://github.com/ploeh)/[**loan**](https://github.com/ploeh/loan)",
+              "This is sample code accompanying my presentation \"Faking Homoiconicity in C# with graphs\".",
+              ""
+            ],
+            [
+              "5",
+              "[@improvedk](https://github.com/improvedk)/[**unQuery**](https://github.com/improvedk/unQuery)",
+              "unQuery is a micro-ORM that makes it as simple as possible to consume and interact with data in SQL Server.",
+              ""
+            ],
+            [
+              "5",
+              "[@MartinF](https://github.com/MartinF)/[**Dynamo.AutoTT**](https://github.com/MartinF/Dynamo.AutoTT)",
+              "Visual Studio Add-in for automatically running T4 Text Template (TT) files when one of the registered triggers are hit.",
+              ""
+            ],
+            [
+              "5",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**MvxFragmentsAndHambu…**](https://github.com/Cheesebaron/MvxFragmentsAndHamburger)",
+              "Sample showing Fragments and Hamburger menu working.",
+              ""
+            ],
+            [
+              "4",
+              "[@perploug](https://github.com/perploug)/[**Umbraco-5-Sample-Tes…**](https://github.com/perploug/Umbraco-5-Sample-Test-Setup)",
+              "Sample VS solution with a Seperate Test project, with a in-memory hivemanager and a mocked page context",
+              ""
+            ],
+            [
+              "4",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**MonoDroid.ColorPicke…**](https://github.com/Cheesebaron/MonoDroid.ColorPickers)",
+              "Sample library with ports of different Color Picker implementations.",
+              ""
+            ],
+            [
+              "4",
+              "[@AngryAnt](https://github.com/AngryAnt)/[**JavaPluginBuilder**](https://github.com/AngryAnt/JavaPluginBuilder)",
+              "Editor extension for streamlining development of Java plugins in Unity android projects.",
+              ""
+            ],
+            [
+              "4",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**SharpFinn**](https://github.com/Cheesebaron/SharpFinn)",
+              "A simple sentiment analysis tool for C# using AFINN.",
+              ""
+            ],
+            [
+              "4",
+              "[@perploug](https://github.com/perploug)/[**UmbracoTemplateConve…**](https://github.com/perploug/UmbracoTemplateConverter)",
+              "Automatic Template to View Conversion for Umbraco 4.10+",
+              ""
+            ],
+            [
+              "4",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**KioskModeSample**](https://github.com/Cheesebaron/KioskModeSample)",
+              "Sample showing a robust way of doing Kiosk Mode in Android",
+              ""
+            ],
+            [
+              "3",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**MonoTouch.WAToolkit**](https://github.com/Cheesebaron/MonoTouch.WAToolkit)",
+              "A port of the Winodws Phone 7 Windows Azure Toolkit",
+              ""
+            ],
+            [
+              "3",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**MonoDroid.VerticalSe…**](https://github.com/Cheesebaron/MonoDroid.VerticalSeekBar)",
+              "A simple Vertical SeekBar implementation for Mono for Android",
+              ""
+            ],
+            [
+              "3",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**ALRadialMenu**](https://github.com/Cheesebaron/ALRadialMenu)",
+              "A port of Alex Littlejohn's ALRadialMenu https://github.com/AlexLittlejohn/ALRadi…",
+              ""
+            ],
+            [
+              "3",
+              "[@jhovgaard](https://github.com/jhovgaard)/[**autoonline**](https://github.com/jhovgaard/autoonline)",
+              "AutoOnline for poe.xyz.is",
+              ""
+            ],
+            [
+              "3",
+              "[@PeterHorsbollMoller](https://github.com/PeterHorsbollMoller)/[**mbWindowHelper**](https://github.com/PeterHorsbollMoller/mbWindowHelper)",
+              "The WindowHelper MapBasic tool for MapInfo Professional",
+              "[:arrow_upper_right:](http://communitydownloads.pbinsight.com/code-exchange/download/windowhelper-2.0)"
+            ],
+            [
+              "3",
+              "[@lkalif](https://github.com/lkalif)/[**ShowBot**](https://github.com/lkalif/ShowBot)",
+              "IRC client in C# for posting podcast show title suggestions",
+              ""
+            ],
+            [
+              "3",
+              "[@AngryAnt](https://github.com/AngryAnt)/[**Learn**](https://github.com/AngryAnt/Learn)",
+              "Because I couldn't find a decent C# neural net back-propagation implementation with non-contageous licensing. Pull requests are welcome.",
+              ""
+            ],
+            [
+              "3",
+              "[@alexrp](https://github.com/alexrp)/[**atomique**](https://github.com/alexrp/atomique)",
+              "Sane atomic operations for .NET based on the C++11 memory model.",
+              "[:arrow_upper_right:](https://www.nuget.org/packages/Atomique)"
+            ],
+            [
+              "3",
+              "[@Cheesebaron](https://github.com/Cheesebaron)/[**MonoDroid.WAToolkit**](https://github.com/Cheesebaron/MonoDroid.WAToolkit)",
+              "A port of the Winodws Phone 7 Windows Azure Toolkit",
+              ""
+            ],
+            [
+              "2",
+              "[@AngryAnt](https://github.com/AngryAnt)/[**IOIOInterface**](https://github.com/AngryAnt/IOIOInterface)",
+              "A Unity -> IOIO interface project",
+              ""
+            ],
+            [
+              "2",
+              "[@AngryAnt](https://github.com/AngryAnt)/[**BuildingYourProjectA…**](https://github.com/AngryAnt/BuildingYourProjectAndTool)",
+              "BuildingYourProjectAndTool",
+              ""
+            ],
+            [
+              "2",
+              "[@lkalif](https://github.com/lkalif)/[**PrimMesher**](https://github.com/lkalif/PrimMesher)",
+              "Dahlia Trimble's Prim Mesher: http://forge.opensimulator.org/gf/projec…",
+              ""
+            ],
+            [
+              "2",
+              "[@mookid8000](https://github.com/mookid8000)/[**CorrelationIds**](https://github.com/mookid8000/CorrelationIds)",
+              "Two Web APIs and two Rebus endpoints that display just how contagious correlation IDs can be",
+              ""
+            ],
+            [
+              "2",
+              "[@mookid8000](https://github.com/mookid8000)/[**F.T.Windsor**](https://github.com/mookid8000/F.T.Windsor)",
+              "Experimental augmentation of Castle Windsor to take greater advantage of the container when extending it",
+              ""
+            ],
+            [
+              "2",
+              "[@mookid8000](https://github.com/mookid8000)/[**RespectOrderDirectiv…**](https://github.com/mookid8000/RespectOrderDirectivesHandlersFilter)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mookid8000](https://github.com/mookid8000)/[**Basis**](https://github.com/mookid8000/Basis)",
+              "Event sourcing basis",
+              ""
+            ],
+            [
+              "2",
+              "[@LindaLawton](https://github.com/LindaLawton)/[**GoogleAuthSimple**](https://github.com/LindaLawton/GoogleAuthSimple)",
+              "Simple connection to Google using Oauth2",
+              ""
+            ],
+            [
+              "2",
+              "[@tt](https://github.com/tt)/[**NDjangoContrib**](https://github.com/tt/NDjangoContrib)",
+              "",
               ""
             ]
           ]
