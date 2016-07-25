@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -2979,6 +2980,195 @@
               "2",
               "[@esmil](https://github.com/esmil)/[**lem-ssl**](https://github.com/esmil/lem-ssl)",
               "Secure socket library for the Lua Event Machine",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "164",
+              "[@simonask](https://github.com/simonask)/[**w**](https://github.com/simonask/w)",
+              "A simple C++ web framework based on Libevent.",
+              "[:arrow_upper_right:](http://simonask.github.io/w)"
+            ],
+            [
+              "68",
+              "[@simonask](https://github.com/simonask)/[**reflect**](https://github.com/simonask/reflect)",
+              "A simple C++11 reflection/serialization framework.",
+              ""
+            ],
+            [
+              "47",
+              "[@vibber](https://github.com/vibber)/[**CefWithSyphon**](https://github.com/vibber/CefWithSyphon)",
+              "A simple browser that shares the window using a Syphon server",
+              ""
+            ],
+            [
+              "36",
+              "[@mortennobel](https://github.com/mortennobel)/[**RenderE**](https://github.com/mortennobel/RenderE)",
+              "Simple render engine for OpenGL",
+              ""
+            ],
+            [
+              "20",
+              "[@mortennobel](https://github.com/mortennobel)/[**kick**](https://github.com/mortennobel/kick)",
+              "Simple game engine for C++ 11 / OpenGL 3.x +",
+              ""
+            ],
+            [
+              "8",
+              "[@simonask](https://github.com/simonask)/[**js**](https://github.com/simonask/js)",
+              "A V8-based JavaScript interpreter and Standard Library",
+              ""
+            ],
+            [
+              "8",
+              "[@simonask](https://github.com/simonask)/[**snow-llvm**](https://github.com/simonask/snow-llvm)",
+              "An reimplementation of the Snow Programming Language based on LLVM.",
+              "[:arrow_upper_right:](http://snow.meta.io/)"
+            ],
+            [
+              "6",
+              "[@mortennobel](https://github.com/mortennobel)/[**QtOpenGL3.2Core**](https://github.com/mortennobel/QtOpenGL3.2Core)",
+              "An example of creating an OpenGL 3.2 core profile context using Qt 4.8 crossplatform",
+              ""
+            ],
+            [
+              "6",
+              "[@simonask](https://github.com/simonask)/[**ftl**](https://github.com/simonask/ftl)",
+              "It's a Fucking Template Library. A collection of container classes for C++0x, similar to STL, but with more jazz and less fail.",
+              ""
+            ],
+            [
+              "5",
+              "[@Andos](https://github.com/Andos)/[**DeadReckoning**](https://github.com/Andos/DeadReckoning)",
+              "MMF2: Dead Reckoning extension",
+              "[:arrow_upper_right:](http://www.andersriggelsen.dk/mmf2_extensions.php)"
+            ],
+            [
+              "4",
+              "[@mortennobel](https://github.com/mortennobel)/[**SoftimageWebGLExport**](https://github.com/mortennobel/SoftimageWebGLExport)",
+              "A WebGL export plugin for SoftImage 2011",
+              ""
+            ],
+            [
+              "4",
+              "[@mortennobel](https://github.com/mortennobel)/[**OpenGL_ClothSimulati…**](https://github.com/mortennobel/OpenGL_ClothSimulation)",
+              "OpenGL cloth simulation based on Jesper Mosegaards tutorial",
+              ""
+            ],
+            [
+              "4",
+              "[@mortennobel](https://github.com/mortennobel)/[**OpenGL_3_2_Utils**](https://github.com/mortennobel/OpenGL_3_2_Utils)",
+              "Extension to the Angel library (from the book Interactive Computer Graphics 6th ed)",
+              ""
+            ],
+            [
+              "3",
+              "[@mortennobel](https://github.com/mortennobel)/[**OpenGLVoxelizer**](https://github.com/mortennobel/OpenGLVoxelizer)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@Andos](https://github.com/Andos)/[**Parallaxer**](https://github.com/Andos/Parallaxer)",
+              "MMF2: Parallaxer extension",
+              "[:arrow_upper_right:](http://www.andersriggelsen.dk/mmf2_extensions.php)"
+            ],
+            [
+              "3",
+              "[@Mortal](https://github.com/Mortal)/[**cmines**](https://github.com/Mortal/cmines)",
+              "Minesweeper AI in n dimensions redux",
+              "[:arrow_upper_right:](http://www.youtube.com/watch?v=OuP3aq7oFaI)"
+            ],
+            [
+              "3",
+              "[@Andos](https://github.com/Andos)/[**CreateByName**](https://github.com/Andos/CreateByName)",
+              "MMF2: CreateByName extension",
+              "[:arrow_upper_right:](http://www.andersriggelsen.dk/mmf2_extensions.php)"
+            ],
+            [
+              "3",
+              "[@Mortal](https://github.com/Mortal)/[**Chained**](https://github.com/Mortal/Chained)",
+              "Mortal's Tetris Attack clone, begun May 5th 2007. Aim: Simulate Tetris Attack physics as closely as possible, allowing pro players to transfer their skills.",
+              ""
+            ],
+            [
+              "2",
+              "[@simonask](https://github.com/simonask)/[**grace-base**](https://github.com/simonask/grace-base)",
+              "Base library for the Grace engine.",
+              ""
+            ],
+            [
+              "2",
+              "[@Mortal](https://github.com/Mortal)/[**sorting**](https://github.com/Mortal/sorting)",
+              "Comparison of the TPIE and STXXL external memory sorting algorithms",
+              ""
+            ],
+            [
+              "2",
+              "[@revivalizer](https://github.com/revivalizer)/[**knobster**](https://github.com/revivalizer/knobster)",
+              "Knob image strip generator for VSTGUI applications",
+              ""
+            ],
+            [
+              "2",
+              "[@Andos](https://github.com/Andos)/[**FunctionEggtimer**](https://github.com/Andos/FunctionEggtimer)",
+              "MMF2: Function Eggtimer extension",
+              "[:arrow_upper_right:](http://www.andersriggelsen.dk/mmf2_extensions.php)"
+            ],
+            [
+              "2",
+              "[@Andos](https://github.com/Andos)/[**Easing**](https://github.com/Andos/Easing)",
+              "MMF2: Easing extension",
+              "[:arrow_upper_right:](http://www.andersriggelsen.dk/mmf2_extensions.php)"
+            ],
+            [
+              "2",
+              "[@Andos](https://github.com/Andos)/[**Perspective**](https://github.com/Andos/Perspective)",
+              "MMF2: Perspective extension",
+              "[:arrow_upper_right:](http://www.andersriggelsen.dk/mmf2_extensions.php)"
+            ],
+            [
+              "2",
+              "[@Andos](https://github.com/Andos)/[**Flocking**](https://github.com/Andos/Flocking)",
+              "MMF2: Flocking extension",
+              "[:arrow_upper_right:](http://www.andersriggelsen.dk/mmf2_extensions.php)"
+            ],
+            [
+              "2",
+              "[@Mortal](https://github.com/Mortal)/[**md5crack**](https://github.com/Mortal/md5crack)",
+              "Crack the MD5 hash of a 9-digit decimal number",
+              ""
+            ],
+            [
+              "2",
+              "[@mortennobel](https://github.com/mortennobel)/[**TopologyOptimization**](https://github.com/mortennobel/TopologyOptimization)",
+              "A simple Topology Optimization (based on the 99-line Matlab code by Ole Sigmund)",
+              ""
+            ],
+            [
+              "2",
+              "[@antialize](https://github.com/antialize)/[**djudge**](https://github.com/antialize/djudge)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mortennobel](https://github.com/mortennobel)/[**PolyPlane**](https://github.com/mortennobel/PolyPlane)",
+              "Simple interactive plane visualization using kick",
               ""
             ]
           ]
