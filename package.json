@@ -63,7 +63,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -5479,6 +5480,531 @@
               "2",
               "[@smbache](https://github.com/smbache)/[**blatr**](https://github.com/smbache/blatr)",
               "A simple R wrapper for Blat SMTP mailer for Windows.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "701",
+              "[@lassebunk](https://github.com/lassebunk)/[**gretel**](https://github.com/lassebunk/gretel)",
+              "Flexible Ruby on Rails breadcrumbs plugin.",
+              ""
+            ],
+            [
+              "382",
+              "[@koppen](https://github.com/koppen)/[**redmine_github_hook**](https://github.com/koppen/redmine_github_hook)",
+              "Allow your Redmine installation to be notified when changes have been pushed to a Github repository. ",
+              "[:arrow_upper_right:](http://mentalized.net/journal/2009/08/03/redmine_plugin_github_hook/)"
+            ],
+            [
+              "350",
+              "[@lassebunk](https://github.com/lassebunk)/[**metamagic**](https://github.com/lassebunk/metamagic)",
+              "Simple Ruby on Rails plugin for creating meta tags.",
+              ""
+            ],
+            [
+              "285",
+              "[@lassebunk](https://github.com/lassebunk)/[**dish**](https://github.com/lassebunk/dish)",
+              "Super simple conversion of hashes into plain Ruby objects. Also works in RubyMotion.",
+              ""
+            ],
+            [
+              "181",
+              "[@lassebunk](https://github.com/lassebunk)/[**dynamic_sitemaps**](https://github.com/lassebunk/dynamic_sitemaps)",
+              "Dynamic sitemap generation plugin for Ruby on Rails.",
+              ""
+            ],
+            [
+              "176",
+              "[@vangberg](https://github.com/vangberg)/[**isaac**](https://github.com/vangberg/isaac)",
+              "A smallish DSL for writing IRC bots.",
+              ""
+            ],
+            [
+              "95",
+              "[@lassebunk](https://github.com/lassebunk)/[**human_power**](https://github.com/lassebunk/human_power)",
+              "Easy generation of robots.txt. Force the robots into submission!",
+              ""
+            ],
+            [
+              "65",
+              "[@vangberg](https://github.com/vangberg)/[**librevox**](https://github.com/vangberg/librevox)",
+              "ruby library for interacting with freeswitch",
+              ""
+            ],
+            [
+              "65",
+              "[@dasch](https://github.com/dasch)/[**ruby-bencode**](https://github.com/dasch/ruby-bencode)",
+              "Ruby bindings for the bencode data serialization format",
+              ""
+            ],
+            [
+              "46",
+              "[@vangberg](https://github.com/vangberg)/[**chowder**](https://github.com/vangberg/chowder)",
+              "rack middleware providing session based authentication",
+              ""
+            ],
+            [
+              "45",
+              "[@koppen](https://github.com/koppen)/[**i18n_missing_keys**](https://github.com/koppen/i18n_missing_keys)",
+              "Rake task to find localization keys missing from different locales in a Rails application using the I18n::Simple backend.",
+              ""
+            ],
+            [
+              "42",
+              "[@vangberg](https://github.com/vangberg)/[**gaze**](https://github.com/vangberg/gaze)",
+              "Serve up your Markdown files with this tiny Sinatra app!",
+              ""
+            ],
+            [
+              "35",
+              "[@nielsjansendk](https://github.com/nielsjansendk)/[**cloud**](https://github.com/nielsjansendk/cloud)",
+              "An open-source ruby wordcloud generator",
+              ""
+            ],
+            [
+              "31",
+              "[@vangberg](https://github.com/vangberg)/[**rack-session-redis**](https://github.com/vangberg/rack-session-redis)",
+              "redis session store for rack",
+              ""
+            ],
+            [
+              "27",
+              "[@lukelex](https://github.com/lukelex)/[**soundcord**](https://github.com/lukelex/soundcord)",
+              "A phonetic algorithm to make comparison by phonetically similar terms easier.",
+              ""
+            ],
+            [
+              "21",
+              "[@vangberg](https://github.com/vangberg)/[**hashidator**](https://github.com/vangberg/hashidator)",
+              "define schema as a hash, and validate hashes!",
+              ""
+            ],
+            [
+              "21",
+              "[@vangberg](https://github.com/vangberg)/[**couchchanges**](https://github.com/vangberg/couchchanges)",
+              "ruby consumer for couchdb's _changes feed",
+              ""
+            ],
+            [
+              "19",
+              "[@vangberg](https://github.com/vangberg)/[**em-elasticsearch**](https://github.com/vangberg/em-elasticsearch)",
+              "elasticsearch library for eventmachine",
+              ""
+            ],
+            [
+              "17",
+              "[@koppen](https://github.com/koppen)/[**csv_query**](https://github.com/koppen/csv_query)",
+              "Command line tool to query CSV data using SQL",
+              ""
+            ],
+            [
+              "16",
+              "[@lasseebert](https://github.com/lasseebert)/[**kase**](https://github.com/lasseebert/kase)",
+              "Kase gracefully pattern matches [:ok, result]-like return values.",
+              "[:arrow_upper_right:](https://github.com/lasseebert/kase)"
+            ],
+            [
+              "16",
+              "[@lukelex](https://github.com/lukelex)/[**csv_record**](https://github.com/lukelex/csv_record)",
+              "CSV Object-relational mapping",
+              ""
+            ],
+            [
+              "15",
+              "[@vangberg](https://github.com/vangberg)/[**soma**](https://github.com/vangberg/soma)",
+              "Send Ruby to IRB from _teh outside_!",
+              "[:arrow_upper_right:](http://trueaffection.net/post/55082660/we-aint-got-slime-but-we-got-something)"
+            ],
+            [
+              "14",
+              "[@dasch](https://github.com/dasch)/[**avro_turf**](https://github.com/dasch/avro_turf)",
+              "A library that makes it easier to use the Avro serialization format from Ruby.",
+              ""
+            ],
+            [
+              "14",
+              "[@lassebunk](https://github.com/lassebunk)/[**api_builder**](https://github.com/lassebunk/api_builder)",
+              "Ruby on Rails template engine that allows for multiple formats being laid out in a single specification.",
+              ""
+            ],
+            [
+              "13",
+              "[@lasseebert](https://github.com/lasseebert)/[**agnostic_slugs**](https://github.com/lasseebert/agnostic_slugs)",
+              "Slug generator that is agnostic and does not monkey patch",
+              "[:arrow_upper_right:](https://github.com/lasseebert/agnostic_slugs)"
+            ],
+            [
+              "12",
+              "[@lassebunk](https://github.com/lassebunk)/[**sitemap_notifier**](https://github.com/lassebunk/sitemap_notifier)",
+              "Ruby on Rails plugin that automatically notifies Google, Bing, and Yahoo of changes to your models, i.e. changes to your sitemap.",
+              ""
+            ],
+            [
+              "11",
+              "[@kvs](https://github.com/kvs)/[**kwalify**](https://github.com/kvs/kwalify)",
+              "schema validator and data binding for YAML/JSON",
+              "[:arrow_upper_right:](http://www.kuwata-lab.com/kwalify/)"
+            ],
+            [
+              "11",
+              "[@mikker](https://github.com/mikker)/[**my_way**](https://github.com/mikker/my_way)",
+              "A Sinatra starting point for your new app. Using rack/test and bundler.",
+              ""
+            ],
+            [
+              "10",
+              "[@vangberg](https://github.com/vangberg)/[**shout-everything**](https://github.com/vangberg/shout-everything)",
+              "notifiers till you die.",
+              ""
+            ],
+            [
+              "10",
+              "[@vangberg](https://github.com/vangberg)/[**nancie**](https://github.com/vangberg/nancie)",
+              "irc bot for collaborative tweeting, with a #sinatra twist.",
+              ""
+            ],
+            [
+              "9",
+              "[@dasch](https://github.com/dasch)/[**ruby-csp**](https://github.com/dasch/ruby-csp)",
+              "Ruby implementation of Communicating Sequential Processes",
+              ""
+            ],
+            [
+              "9",
+              "[@lassebunk](https://github.com/lassebunk)/[**gretel-trails**](https://github.com/lassebunk/gretel-trails)",
+              "Strategies for handling Gretel trails.",
+              ""
+            ],
+            [
+              "9",
+              "[@kvs](https://github.com/kvs)/[**ruby-zfs**](https://github.com/kvs/ruby-zfs)",
+              "A library for interacting with ZFS, made in the spirit of Pathname.",
+              ""
+            ],
+            [
+              "8",
+              "[@dasch](https://github.com/dasch)/[**rails-complete**](https://github.com/dasch/rails-complete)",
+              "Bash completion for the rails command",
+              ""
+            ],
+            [
+              "8",
+              "[@soimort](https://github.com/soimort)/[**mayuki**](https://github.com/soimort/mayuki)",
+              "[INACTIVE] A minimalist Markdown/YAML-based static wiki generator",
+              "[:arrow_upper_right:](http://www.soimort.org/mayuki/)"
+            ],
+            [
+              "8",
+              "[@dasch](https://github.com/dasch)/[**riot-rack**](https://github.com/dasch/riot-rack)",
+              "Riot::Rack -- easily test Rack apps using Riot!",
+              ""
+            ],
+            [
+              "7",
+              "[@kvs](https://github.com/kvs)/[**vagrant-proxyssh**](https://github.com/kvs/vagrant-proxyssh)",
+              "A Vagrant plugin + ssh_config snippet for ssh'ing to a VM",
+              ""
+            ],
+            [
+              "7",
+              "[@koppen](https://github.com/koppen)/[**webby-less-filter**](https://github.com/koppen/webby-less-filter)",
+              "Allows you to use the LESS CSS syntax in your Webby files.",
+              ""
+            ],
+            [
+              "6",
+              "[@koppen](https://github.com/koppen)/[**redmine-flow-theme**](https://github.com/koppen/redmine-flow-theme)",
+              "Flow theme for Redmine - Work in progress",
+              ""
+            ],
+            [
+              "6",
+              "[@nielsjansendk](https://github.com/nielsjansendk)/[**active_rbac**](https://github.com/nielsjansendk/active_rbac)",
+              "Fork of active_rbac, with a bugfix",
+              "[:arrow_upper_right:](http://active-rbac.rubyforge.org/)"
+            ],
+            [
+              "6",
+              "[@lassebunk](https://github.com/lassebunk)/[**acts_as_translatable**](https://github.com/lassebunk/acts_as_translatable)",
+              "Ruby on Rails plugin for easy translation of Ruby on Rails models and database tables.",
+              ""
+            ],
+            [
+              "6",
+              "[@lassebunk](https://github.com/lassebunk)/[**item**](https://github.com/lassebunk/item)",
+              "Easy-to-use semantic markup and microdata for Ruby on Rails.",
+              ""
+            ],
+            [
+              "6",
+              "[@vangberg](https://github.com/vangberg)/[**mocksocket**](https://github.com/vangberg/mocksocket)",
+              "io/tcpsocket mock for testing",
+              ""
+            ],
+            [
+              "6",
+              "[@lassebunk](https://github.com/lassebunk)/[**webcam_app**](https://github.com/lassebunk/webcam_app)",
+              "Demo on how to get your webcam working with Rails 3",
+              ""
+            ],
+            [
+              "6",
+              "[@nielsjansendk](https://github.com/nielsjansendk)/[**acts_as_sanitized**](https://github.com/nielsjansendk/acts_as_sanitized)",
+              "Fork of the acts_as_sanitized svn repository",
+              "[:arrow_upper_right:](http://actsassanitized.devjavu.com/)"
+            ],
+            [
+              "6",
+              "[@emiltin](https://github.com/emiltin)/[**poolparty_example**](https://github.com/emiltin/poolparty_example)",
+              "An example of using poolparty to deploy a rails app",
+              ""
+            ],
+            [
+              "5",
+              "[@lassebunk](https://github.com/lassebunk)/[**checkins_app**](https://github.com/lassebunk/checkins_app)",
+              "Demo of a location aware app that stores check-ins based on current location, shows nearby check-ins, and displays check-ins on a map.",
+              "[:arrow_upper_right:](http://lassebunk.dk/2011/09/10/creating-a-location-aware-website-using-ruby-on-rails-and-postgis/)"
+            ],
+            [
+              "5",
+              "[@dasch](https://github.com/dasch)/[**minx**](https://github.com/dasch/minx)",
+              "A library for creating massively concurrent applications in Ruby",
+              ""
+            ],
+            [
+              "5",
+              "[@kvs](https://github.com/kvs)/[**drbssh**](https://github.com/kvs/drbssh)",
+              "A protocol implementation for Distributed Ruby (DRb), supporting SSH-connections.",
+              ""
+            ],
+            [
+              "5",
+              "[@nielsjansendk](https://github.com/nielsjansendk)/[**cloud_examples**](https://github.com/nielsjansendk/cloud_examples)",
+              "Examples using the ninajansen-cloud gem",
+              ""
+            ],
+            [
+              "5",
+              "[@nielsjansendk](https://github.com/nielsjansendk)/[**simile_timeline**](https://github.com/nielsjansendk/simile_timeline)",
+              "A fork of the simile timeline svn repository",
+              "[:arrow_upper_right:](http://code.google.com/p/similetimelinerailshelper/)"
+            ],
+            [
+              "4",
+              "[@emiltin](https://github.com/emiltin)/[**healing**](https://github.com/emiltin/healing)",
+              "Experimental cloud healing",
+              ""
+            ],
+            [
+              "4",
+              "[@polyras](https://github.com/polyras)/[**reco**](https://github.com/polyras/reco)",
+              "Ruby port of the Eco template compiler.",
+              ""
+            ],
+            [
+              "4",
+              "[@lasseebert](https://github.com/lasseebert)/[**grity**](https://github.com/lasseebert/grity)",
+              "Dead simple analytics for your website",
+              "[:arrow_upper_right:](http://grity.org)"
+            ],
+            [
+              "4",
+              "[@soimort](https://github.com/soimort)/[**p99**](https://github.com/soimort/p99)",
+              "P-99: Ninety-Nine Prolog Problems (Mort's Solutions)",
+              ""
+            ],
+            [
+              "4",
+              "[@dasch](https://github.com/dasch)/[**warden-facebook**](https://github.com/dasch/warden-facebook)",
+              "A Facebook Connect  strategy for Warden",
+              ""
+            ],
+            [
+              "4",
+              "[@mikker](https://github.com/mikker)/[**rk.brnbw.com**](https://github.com/mikker/rk.brnbw.com)",
+              "Single-serving app that shows your current Rejsekort balance.",
+              "[:arrow_upper_right:](http://rk.brnbw.com)"
+            ],
+            [
+              "4",
+              "[@koppen](https://github.com/koppen)/[**dotfiles**](https://github.com/koppen/dotfiles)",
+              "My configuration files",
+              ""
+            ],
+            [
+              "4",
+              "[@vangberg](https://github.com/vangberg)/[**ec2meta-rb**](https://github.com/vangberg/ec2meta-rb)",
+              "ec2 instance metadata wrapper for ruby",
+              ""
+            ],
+            [
+              "3",
+              "[@vangberg](https://github.com/vangberg)/[**rubybnc**](https://github.com/vangberg/rubybnc)",
+              "my first ruby proj I wrote back in '03 at age 14, way before rails was released. after this I switched back to php. what a shame.",
+              ""
+            ],
+            [
+              "3",
+              "[@rbgrouleff](https://github.com/rbgrouleff)/[**cuba_todo**](https://github.com/rbgrouleff/cuba_todo)",
+              "Cuba demo for the Aarhus.rb meetup March 13th",
+              ""
+            ],
+            [
+              "3",
+              "[@soimort](https://github.com/soimort)/[**anthy-kaomoji**](https://github.com/soimort/anthy-kaomoji)",
+              "Mort's collection of everyday use kaomojis",
+              ""
+            ],
+            [
+              "3",
+              "[@nielsjansendk](https://github.com/nielsjansendk)/[**acts_as_rateable_by**](https://github.com/nielsjansendk/acts_as_rateable_by)",
+              "An extension of the classic acts_as_rateable plugin that lets any model rate any model",
+              ""
+            ],
+            [
+              "3",
+              "[@rbgrouleff](https://github.com/rbgrouleff)/[**acts_as_publishable**](https://github.com/rbgrouleff/acts_as_publishable)",
+              "Rails gem that adds functionality to make Active Record models publishable",
+              "[:arrow_upper_right:](http://github.com/rbgrouleff/acts_as_publishable)"
+            ],
+            [
+              "3",
+              "[@dasch](https://github.com/dasch)/[**query_matchers**](https://github.com/dasch/query_matchers)",
+              "A set of RSpec matchers for Active Record queries",
+              ""
+            ],
+            [
+              "2",
+              "[@lassebunk](https://github.com/lassebunk)/[**bing_translate_yaml**](https://github.com/lassebunk/bing_translate_yaml)",
+              "Simple Ruby on Rails plugin for translating your YAML files using Bing.",
+              ""
+            ],
+            [
+              "2",
+              "[@lukelex](https://github.com/lukelex)/[**NATO**](https://github.com/lukelex/NATO)",
+              "NATO Phonetic Alphabet",
+              ""
+            ],
+            [
+              "2",
+              "[@koppen](https://github.com/koppen)/[**r_asteroids**](https://github.com/koppen/r_asteroids)",
+              "Asteroids-inspired game built in Ruby using Gosu",
+              ""
+            ],
+            [
+              "2",
+              "[@polyras](https://github.com/polyras)/[**banana_split**](https://github.com/polyras/banana_split)",
+              "A/B split testing for Rails",
+              ""
+            ],
+            [
+              "2",
+              "[@kvs](https://github.com/kvs)/[**javaobs**](https://github.com/kvs/javaobs)",
+              "Java Objects (de)serialization for Ruby",
+              ""
+            ],
+            [
+              "2",
+              "[@soimort](https://github.com/soimort)/[**google_plus_archiver**](https://github.com/soimort/google_plus_archiver)",
+              "[INACTIVE] A simple command-line tool to archive Google+ profiles and public streams",
+              "[:arrow_upper_right:](http://www.soimort.org/google_plus_archiver/)"
+            ],
+            [
+              "2",
+              "[@kvs](https://github.com/kvs)/[**eboks-backup**](https://github.com/kvs/eboks-backup)",
+              "Backup documents stored on www.e-boks.dk",
+              ""
+            ],
+            [
+              "2",
+              "[@koppen](https://github.com/koppen)/[**redmine_velocity**](https://github.com/koppen/redmine_velocity)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mikker](https://github.com/mikker)/[**render_with_view**](https://github.com/mikker/render_with_view)",
+              "Be explicit about the things you send from your Rails controller to the view.",
+              ""
+            ],
+            [
+              "2",
+              "[@dasch](https://github.com/dasch)/[**ruby-kubernetes**](https://github.com/dasch/ruby-kubernetes)",
+              "A Ruby client library for Kubernetes. ",
+              ""
+            ],
+            [
+              "2",
+              "[@mikker](https://github.com/mikker)/[**DR-Player.app**](https://github.com/mikker/DR-Player.app)",
+              "Watch DR's TV channels live on your Mac",
+              "[:arrow_upper_right:](http://dr.brnbw.com)"
+            ],
+            [
+              "2",
+              "[@dasch](https://github.com/dasch)/[**rockpaperscissors**](https://github.com/dasch/rockpaperscissors)",
+              "A web application used to register games of rock-paper-scissors.",
+              ""
+            ],
+            [
+              "2",
+              "[@thejspr](https://github.com/thejspr)/[**yarn**](https://github.com/thejspr/yarn)",
+              "Multi-process webserver written in Ruby. Part of my thesis project.",
+              ""
+            ],
+            [
+              "2",
+              "[@dasch](https://github.com/dasch)/[**riot-rails**](https://github.com/dasch/riot-rails)",
+              "Testing Rails apps with Riot!",
+              ""
+            ],
+            [
+              "2",
+              "[@thejspr](https://github.com/thejspr)/[**thesis**](https://github.com/thejspr/thesis)",
+              "Developing a concurrent ruby webserver using BDD (Thesis report)",
+              ""
+            ],
+            [
+              "2",
+              "[@dasch](https://github.com/dasch)/[**ruby-xri**](https://github.com/dasch/ruby-xri)",
+              "An XRI wrapper for Ruby",
+              ""
+            ],
+            [
+              "2",
+              "[@dasch](https://github.com/dasch)/[**rake-tags**](https://github.com/dasch/rake-tags)",
+              "A Rake task that creates a Vi/Emacs tags file",
+              ""
+            ],
+            [
+              "2",
+              "[@lukelex](https://github.com/lukelex)/[**csvash**](https://github.com/lukelex/csvash)",
+              "Simplify CSV to Model mapping and vice versa",
+              "[:arrow_upper_right:](http://lukelex.github.com/csvash/)"
+            ],
+            [
+              "2",
+              "[@sorbits](https://github.com/sorbits)/[**github-email-api**](https://github.com/sorbits/github-email-api)",
+              "Assign labels and close issues via email",
+              ""
+            ],
+            [
+              "2",
+              "[@koppen](https://github.com/koppen)/[**bottleships**](https://github.com/koppen/bottleships)",
+              "Pitch your algorithm versus those of your friends in the epic game of Battleships. May the best bot win.",
               ""
             ]
           ]
