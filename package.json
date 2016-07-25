@@ -56,7 +56,8 @@
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -3662,6 +3663,99 @@
             [
               "2",
               "[@reenberg](https://github.com/reenberg)/[**.xmonad**](https://github.com/reenberg/.xmonad)",
+              "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "209",
+              "[@SimonLarsen](https://github.com/SimonLarsen)/[**mrrescue**](https://github.com/SimonLarsen/mrrescue)",
+              "Arcade-style fire fighting game",
+              "[:arrow_upper_right:](http://tangramgames.dk/games/mrrescue)"
+            ],
+            [
+              "56",
+              "[@SimonLarsen](https://github.com/SimonLarsen)/[**sienna**](https://github.com/SimonLarsen/sienna)",
+              "Fast-paced one button platformer",
+              "[:arrow_upper_right:](http://tangramgames.dk/games/sienna)"
+            ],
+            [
+              "36",
+              "[@SimonLarsen](https://github.com/SimonLarsen)/[**duckmarines**](https://github.com/SimonLarsen/duckmarines)",
+              "Free software ChuChu Rocket remake for PC",
+              "[:arrow_upper_right:](http://tangramgames.dk/games/duckmarines/)"
+            ],
+            [
+              "23",
+              "[@SimonLarsen](https://github.com/SimonLarsen)/[**iyfct**](https://github.com/SimonLarsen/iyfct)",
+              "In Your Face City Trains",
+              ""
+            ],
+            [
+              "22",
+              "[@SimonLarsen](https://github.com/SimonLarsen)/[**90-Second-Portraits**](https://github.com/SimonLarsen/90-Second-Portraits)",
+              "Frantic street painting game",
+              "[:arrow_upper_right:](http://tangramgames.dk/games/90secondportraits)"
+            ],
+            [
+              "10",
+              "[@SimonLarsen](https://github.com/SimonLarsen)/[**DreamWitchErika**](https://github.com/SimonLarsen/DreamWitchErika)",
+              "Ludum Dare 30: Connected worlds",
+              ""
+            ],
+            [
+              "6",
+              "[@SimonLarsen](https://github.com/SimonLarsen)/[**safetyblanket**](https://github.com/SimonLarsen/safetyblanket)",
+              "Ludum Dare 29 jam game",
+              "[:arrow_upper_right:](http://tangramgames.dk/games/safetyblanket)"
+            ],
+            [
+              "6",
+              "[@SimonLarsen](https://github.com/SimonLarsen)/[**mutrix**](https://github.com/SimonLarsen/mutrix)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@SimonLarsen](https://github.com/SimonLarsen)/[**rob**](https://github.com/SimonLarsen/rob)",
+              "Herbie and Jamal's Super Rob You Now Adventures",
+              ""
+            ],
+            [
+              "4",
+              "[@Pilus](https://github.com/Pilus)/[**Gryphonheart**](https://github.com/Pilus/Gryphonheart)",
+              "Github for the Gryphonheart AddOns",
+              ""
+            ],
+            [
+              "3",
+              "[@SimonLarsen](https://github.com/SimonLarsen)/[**Energy**](https://github.com/SimonLarsen/Energy)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@SimonLarsen](https://github.com/SimonLarsen)/[**island**](https://github.com/SimonLarsen/island)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@SimonLarsen](https://github.com/SimonLarsen)/[**4hrJamChoplifter**](https://github.com/SimonLarsen/4hrJamChoplifter)",
               "",
               ""
             ]
