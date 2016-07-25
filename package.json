@@ -53,7 +53,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -3412,6 +3413,27 @@
               "[@mjul](https://github.com/mjul)/[**top-10-clojure-ndc-2…**](https://github.com/mjul/top-10-clojure-ndc-2011)",
               "Top Ten Things to Learn from Clojure that will make you a better developer in any language. Presentation and code for my session at NDC 2011.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8",
+              "[@8pen](https://github.com/8pen)/[**doodle**](https://github.com/8pen/doodle)",
+              "The 8pen Doodle",
+              "[:arrow_upper_right:](http://www.8pen.com/doodle)"
             ]
           ]
         }
