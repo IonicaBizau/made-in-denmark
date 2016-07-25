@@ -54,7 +54,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -3434,6 +3435,39 @@
               "[@8pen](https://github.com/8pen)/[**doodle**](https://github.com/8pen/doodle)",
               "The 8pen Doodle",
               "[:arrow_upper_right:](http://www.8pen.com/doodle)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "52",
+              "[@zozor](https://github.com/zozor)/[**hgui**](https://github.com/zozor/hgui)",
+              "gui toolkit for go",
+              ""
+            ],
+            [
+              "3",
+              "[@mbanzon](https://github.com/mbanzon)/[**currency**](https://github.com/mbanzon/currency)",
+              "A small Go library to convert currencies.",
+              ""
+            ],
+            [
+              "3",
+              "[@zozor](https://github.com/zozor)/[**Cecils-Adventure**](https://github.com/zozor/Cecils-Adventure)",
+              "A little Game i wrote in Go using SDL library",
+              ""
             ]
           ]
         }
