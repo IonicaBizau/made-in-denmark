@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -3227,6 +3228,189 @@
               "2",
               "[@jamalsoueidan](https://github.com/jamalsoueidan)/[**GameServer**](https://github.com/jamalsoueidan/GameServer)",
               "I'm building ruby socket server that can easily communicate with actionsript 3, so I can build flash games easily.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "262",
+              "[@LauJensen](https://github.com/LauJensen)/[**clojureql**](https://github.com/LauJensen/clojureql)",
+              "ClojureQL is superior SQL integration for Clojure",
+              "[:arrow_upper_right:](http://www.bestinclass.dk)"
+            ],
+            [
+              "205",
+              "[@mjul](https://github.com/mjul)/[**docjure**](https://github.com/mjul/docjure)",
+              "Read and write Office documents from Clojure",
+              ""
+            ],
+            [
+              "41",
+              "[@enterlab](https://github.com/enterlab)/[**rente**](https://github.com/enterlab/rente)",
+              "Rente: Clojure, ClojureScript, Reagent (react) + Sente (web sockets). Heroku-ready!",
+              "[:arrow_upper_right:](http://enterlab.com)"
+            ],
+            [
+              "38",
+              "[@mjul](https://github.com/mjul)/[**cucumber-tutorial**](https://github.com/mjul/cucumber-tutorial)",
+              "Setting up and using Cucumber for Clojure projects",
+              ""
+            ],
+            [
+              "27",
+              "[@LauJensen](https://github.com/LauJensen)/[**cloneit**](https://github.com/LauJensen/cloneit)",
+              "A small Reddit Clone",
+              "[:arrow_upper_right:](http://www.bestinclass.dk)"
+            ],
+            [
+              "24",
+              "[@LauJensen](https://github.com/LauJensen)/[**SocialSite**](https://github.com/LauJensen/SocialSite)",
+              "A Social Media website",
+              "[:arrow_upper_right:](http://bestinclass.dk/index.clj/2011/01/building-a-social-media-site.html)"
+            ],
+            [
+              "19",
+              "[@LauJensen](https://github.com/LauJensen)/[**Claskii**](https://github.com/LauJensen/Claskii)",
+              "Image to Ascii Art converter written in Clojure",
+              "[:arrow_upper_right:](http://www.bestinclass.dk)"
+            ],
+            [
+              "18",
+              "[@krukow](https://github.com/krukow)/[**calabash-script**](https://github.com/krukow/calabash-script)",
+              "Use ClojureScript to write iOS functional tests ",
+              ""
+            ],
+            [
+              "16",
+              "[@mjul](https://github.com/mjul)/[**storm-tutorial**](https://github.com/mjul/storm-tutorial)",
+              "Clojure tutorial for Storm stream processing",
+              ""
+            ],
+            [
+              "13",
+              "[@LauJensen](https://github.com/LauJensen)/[**Fluid-Dynamics**](https://github.com/LauJensen/Fluid-Dynamics)",
+              "Functional Fluid Dynamics in Clojure",
+              "[:arrow_upper_right:](http://www.bestinclass.dk/index.php/2010/03/functional-fluid-dynamics-in-clojure/)"
+            ],
+            [
+              "12",
+              "[@krukow](https://github.com/krukow)/[**clojure-circuit-brea…**](https://github.com/krukow/clojure-circuit-breaker)",
+              "Fast functional circuit-breaker written in Clojure",
+              "[:arrow_upper_right:](http://blog.higher-order.net/2010/05/05/circuitbreaker-clojure-1-2/)"
+            ],
+            [
+              "9",
+              "[@Quantisan](https://github.com/Quantisan)/[**mango**](https://github.com/Quantisan/mango)",
+              "a concurrent systematic trading strategies backtesting platform",
+              ""
+            ],
+            [
+              "9",
+              "[@mjul](https://github.com/mjul)/[**zeromq-tutorial**](https://github.com/mjul/zeromq-tutorial)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@LauJensen](https://github.com/LauJensen)/[**sofiaba**](https://github.com/LauJensen/sofiaba)",
+              "Small game for < 3 year old kids, binds JMonkeyEngine to Clojure and thus provides a framework for 3D game development.",
+              "[:arrow_upper_right:](http://www.JMonkeyEngine.com)"
+            ],
+            [
+              "9",
+              "[@LauJensen](https://github.com/LauJensen)/[**ProtoTurtle**](https://github.com/LauJensen/ProtoTurtle)",
+              "Protocol Driven Turtle Graphics",
+              "[:arrow_upper_right:](http://www.bestinclass.dk/index.php/2010/04/prototurtle-the-tale-of-the-bleeding-turtle/)"
+            ],
+            [
+              "5",
+              "[@LauJensen](https://github.com/LauJensen)/[**Climate**](https://github.com/LauJensen/Climate)",
+              "Computational engine which crunches NOAA data in parallel",
+              "[:arrow_upper_right:](http://www.bestinclass.dk)"
+            ],
+            [
+              "3",
+              "[@Quantisan](https://github.com/Quantisan)/[**clj-exercises**](https://github.com/Quantisan/clj-exercises)",
+              "collection of exercises done in clojure",
+              ""
+            ],
+            [
+              "3",
+              "[@LauJensen](https://github.com/LauJensen)/[**gitdoc**](https://github.com/LauJensen/gitdoc)",
+              "A Qt front-/backend for parsing Git logs",
+              "[:arrow_upper_right:](http://www.clojure.com)"
+            ],
+            [
+              "3",
+              "[@mjul](https://github.com/mjul)/[**logiclab**](https://github.com/mjul/logiclab)",
+              "Examples and tutorial for the excellent Clojure core.logic logic programming library",
+              ""
+            ],
+            [
+              "3",
+              "[@mjul](https://github.com/mjul)/[**top-10-clojure-orede…**](https://github.com/mjul/top-10-clojure-oredev-2011)",
+              "Slides and code for my Øredev 2011 presentation",
+              ""
+            ],
+            [
+              "3",
+              "[@klang](https://github.com/klang)/[**snippets**](https://github.com/klang/snippets)",
+              "Snippet Server from chapter 9.3 in Programming Clojure, updated to use lein and current versions of supporting libraries. ",
+              ""
+            ],
+            [
+              "3",
+              "[@krukow](https://github.com/krukow)/[**clojure-in-practice-…**](https://github.com/krukow/clojure-in-practice-example)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@klang](https://github.com/klang)/[**ProjectEuler**](https://github.com/klang/ProjectEuler)",
+              ".. making a point of solving the problems in Clojure. (120)",
+              "[:arrow_upper_right:](http://projecteuler.net/)"
+            ],
+            [
+              "2",
+              "[@klang](https://github.com/klang)/[**RosettaCode**](https://github.com/klang/RosettaCode)",
+              "My contributions to RosettaCode.\n\n -- Learning a new language is hard without fun stuff to code. Translating from known languages is in tune with the way we learn natural languages, so I'll try this approach.",
+              "[:arrow_upper_right:](http://rosettacode.org/)"
+            ],
+            [
+              "2",
+              "[@mjul](https://github.com/mjul)/[**cph-clj-web-dev**](https://github.com/mjul/cph-clj-web-dev)",
+              "Copenhagen Clojure Meetup session on Web Development Nov. 4, 2010",
+              ""
+            ],
+            [
+              "2",
+              "[@mjul](https://github.com/mjul)/[**clojure-in-10-mins**](https://github.com/mjul/clojure-in-10-mins)",
+              "Clojure in 10 Minutes - presentation and code ",
+              ""
+            ],
+            [
+              "2",
+              "[@mjul](https://github.com/mjul)/[**heroku-zipurl**](https://github.com/mjul/heroku-zipurl)",
+              "Example Clojure web app for the Heroku cloud",
+              ""
+            ],
+            [
+              "2",
+              "[@mjul](https://github.com/mjul)/[**top-10-clojure-ndc-2…**](https://github.com/mjul/top-10-clojure-ndc-2011)",
+              "Top Ten Things to Learn from Clojure that will make you a better developer in any language. Presentation and code for my session at NDC 2011.",
               ""
             ]
           ]
