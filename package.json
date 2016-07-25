@@ -61,7 +61,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -4896,6 +4897,453 @@
               "[@esbenp](https://github.com/esbenp)/[**architect**](https://github.com/esbenp/architect)",
               "Dynamically create API resource structures for related resources",
               "[:arrow_upper_right:](http://optimus.rocks/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "924",
+              "[@andersbll](https://github.com/andersbll)/[**neural_artistic_styl…**](https://github.com/andersbll/neural_artistic_style)",
+              "Neural Artistic Style in Python",
+              ""
+            ],
+            [
+              "917",
+              "[@andersbll](https://github.com/andersbll)/[**deeppy**](https://github.com/andersbll/deeppy)",
+              "Deep learning in Python",
+              ""
+            ],
+            [
+              "878",
+              "[@keleshev](https://github.com/keleshev)/[**schema**](https://github.com/keleshev/schema)",
+              "Schema validation just got Pythonic",
+              ""
+            ],
+            [
+              "362",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**django-hvad**](https://github.com/KristianOellegaard/django-hvad)",
+              "Painless translations in django, using the regular ORM. Integrates easily into existing projects and apps. Easy convertible from django-multilingual-ng.",
+              "[:arrow_upper_right:](https://github.com/KristianOellegaard/django-hvad)"
+            ],
+            [
+              "142",
+              "[@skaae](https://github.com/skaae)/[**lasagne-draw**](https://github.com/skaae/lasagne-draw)",
+              "Implementation of the DRAW network in lasagne",
+              ""
+            ],
+            [
+              "134",
+              "[@keleshev](https://github.com/keleshev)/[**mini**](https://github.com/keleshev/mini)",
+              "Mini: Interpreter and a programming language implemented in Python",
+              ""
+            ],
+            [
+              "127",
+              "[@andersbll](https://github.com/andersbll)/[**cudarray**](https://github.com/andersbll/cudarray)",
+              "CUDA-based NumPy",
+              ""
+            ],
+            [
+              "110",
+              "[@alrojo](https://github.com/alrojo)/[**lasagne_residual_net…**](https://github.com/alrojo/lasagne_residual_network)",
+              "Recreating the Deep Residual Network in Lasagne",
+              ""
+            ],
+            [
+              "109",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**django-health-check**](https://github.com/KristianOellegaard/django-health-check)",
+              "a pluggable app that runs a full check on the deployment, using a number of plugins to check e.g. database, queue server, celery processes, etc.",
+              "[:arrow_upper_right:](http://kristianoellegaard.github.com/django-health-check/)"
+            ],
+            [
+              "91",
+              "[@alesdotio](https://github.com/alesdotio)/[**django-admin-shortcu…**](https://github.com/alesdotio/django-admin-shortcuts)",
+              "Add simple and pretty shortcuts to the django admin homepage.",
+              ""
+            ],
+            [
+              "77",
+              "[@skaae](https://github.com/skaae)/[**transformer_network**](https://github.com/skaae/transformer_network)",
+              "Spatial Transformer network",
+              ""
+            ],
+            [
+              "69",
+              "[@keleshev](https://github.com/keleshev)/[**rome**](https://github.com/keleshev/rome)",
+              "A practical Roman numerals implementation (also an example of Python project structure)",
+              ""
+            ],
+            [
+              "66",
+              "[@andersbll](https://github.com/andersbll)/[**nnet**](https://github.com/andersbll/nnet)",
+              "Neural networks in NumPy/Cython",
+              ""
+            ],
+            [
+              "62",
+              "[@piquadrat](https://github.com/piquadrat)/[**django-cms-search**](https://github.com/piquadrat/django-cms-search)",
+              "This package provides multilingual search indexes for easy Haystack integration with django CMS",
+              ""
+            ],
+            [
+              "54",
+              "[@simonbs](https://github.com/simonbs)/[**alfred-youtube-workf…**](https://github.com/simonbs/alfred-youtube-workflow)",
+              "A workflow for Alfred 2.0 which lets the user search for YouTube videos and have them returned to Alfred.",
+              ""
+            ],
+            [
+              "45",
+              "[@piquadrat](https://github.com/piquadrat)/[**django-localdevstora…**](https://github.com/piquadrat/django-localdevstorage)",
+              "A storage backend for local development that downloads files from the live site if they are not locally available",
+              ""
+            ],
+            [
+              "45",
+              "[@simonbs](https://github.com/simonbs)/[**alfred-tweetbot-work…**](https://github.com/simonbs/alfred-tweetbot-workflow)",
+              "Control Tweetbot from Alfred 2.0",
+              ""
+            ],
+            [
+              "44",
+              "[@andersbll](https://github.com/andersbll)/[**autoencoding_beyond_…**](https://github.com/andersbll/autoencoding_beyond_pixels)",
+              "Generative image model with learned similarity measures",
+              ""
+            ],
+            [
+              "35",
+              "[@piquadrat](https://github.com/piquadrat)/[**django-treeadmin**](https://github.com/piquadrat/django-treeadmin)",
+              "",
+              ""
+            ],
+            [
+              "28",
+              "[@keleshev](https://github.com/keleshev)/[**version**](https://github.com/keleshev/version)",
+              "Semantic versioning (SemVer) implementation for Python",
+              ""
+            ],
+            [
+              "21",
+              "[@skaae](https://github.com/skaae)/[**Lasagne-CTC**](https://github.com/skaae/Lasagne-CTC)",
+              "CTC for lasagne",
+              ""
+            ],
+            [
+              "19",
+              "[@AndersDeleuran](https://github.com/AndersDeleuran)/[**ShapeOpGHPython**](https://github.com/AndersDeleuran/ShapeOpGHPython)",
+              "Implementation of the ShapeOp C++ framework in GHPython.",
+              "[:arrow_upper_right:](http://shapeop.org/)"
+            ],
+            [
+              "19",
+              "[@simonbs](https://github.com/simonbs)/[**alfred-safari-tabs-w…**](https://github.com/simonbs/alfred-safari-tabs-workflow)",
+              "Manage tabs in Safari",
+              ""
+            ],
+            [
+              "15",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**dokku-controller**](https://github.com/KristianOellegaard/dokku-controller)",
+              "",
+              ""
+            ],
+            [
+              "15",
+              "[@simonbs](https://github.com/simonbs)/[**alfred-movies-workfl…**](https://github.com/simonbs/alfred-movies-workflow)",
+              "Lookup movies on IMDb and OMDb",
+              ""
+            ],
+            [
+              "14",
+              "[@piquadrat](https://github.com/piquadrat)/[**celery-redis-unixsoc…**](https://github.com/piquadrat/celery-redis-unixsocket)",
+              "celery store backend and kombu transport for redis that supports connections via unix sockets",
+              ""
+            ],
+            [
+              "13",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**cmsplugin-text-ng**](https://github.com/KristianOellegaard/cmsplugin-text-ng)",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "[@simonbs](https://github.com/simonbs)/[**alfred-cloudapp-work…**](https://github.com/simonbs/alfred-cloudapp-workflow)",
+              "CloudApp workflow for Alfred 2.0 which allows for managing uploads.",
+              ""
+            ],
+            [
+              "10",
+              "[@keleshev](https://github.com/keleshev)/[**docopt-dispatch**](https://github.com/keleshev/docopt-dispatch)",
+              "Dispatch from command-line arguments to functions",
+              ""
+            ],
+            [
+              "10",
+              "[@AndersDeleuran](https://github.com/AndersDeleuran)/[**KangarooGHPython**](https://github.com/AndersDeleuran/KangarooGHPython)",
+              "How to stuff a Kangaroo in your Python using a Grasshopper",
+              ""
+            ],
+            [
+              "10",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**python-eureka**](https://github.com/KristianOellegaard/python-eureka)",
+              "Python client for Netflix Eureka https://github.com/Netflix/eureka/",
+              ""
+            ],
+            [
+              "9",
+              "[@AndersDeleuran](https://github.com/AndersDeleuran)/[**MeshAnalysis**](https://github.com/AndersDeleuran/MeshAnalysis)",
+              "GHPython Mesh Analysis Components.",
+              ""
+            ],
+            [
+              "9",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**django-saml-service-…**](https://github.com/KristianOellegaard/django-saml-service-provider)",
+              "Easily let users sign in via SAML 2.0 to your django app. Based on python-saml",
+              ""
+            ],
+            [
+              "9",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**python-cloudfoundry**](https://github.com/KristianOellegaard/python-cloudfoundry)",
+              "Cloud Foundry (or derivative) python library/client. Should also work with Stackato and AppFog.",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/python-cloudfoundry/)"
+            ],
+            [
+              "8",
+              "[@keleshev](https://github.com/keleshev)/[**value**](https://github.com/keleshev/value)",
+              "Value object pattern implementation",
+              ""
+            ],
+            [
+              "7",
+              "[@alesdotio](https://github.com/alesdotio)/[**django-shop-multiple…**](https://github.com/alesdotio/django-shop-multiplecurrencies)",
+              "Multiple currencies for Django Shop",
+              ""
+            ],
+            [
+              "7",
+              "[@Eckankar](https://github.com/Eckankar)/[**PySortDemo**](https://github.com/Eckankar/PySortDemo)",
+              "Visualization of sorting algorithms, done in Python.",
+              ""
+            ],
+            [
+              "7",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**catalog**](https://github.com/KristianOellegaard/catalog)",
+              "django powered webshop or online \"catalog\" - i, however, recommend django-shop (https://github.com/divio/django-shop/)",
+              ""
+            ],
+            [
+              "7",
+              "[@alrojo](https://github.com/alrojo)/[**RNNProteins**](https://github.com/alrojo/RNNProteins)",
+              "CB513 results (world record)",
+              "[:arrow_upper_right:](http://www.princeton.edu/~jzthree/datasets/ICML2014/)"
+            ],
+            [
+              "5",
+              "[@Eckankar](https://github.com/Eckankar)/[**PyWar**](https://github.com/Eckankar/PyWar)",
+              "The card game war, coded in Python.",
+              ""
+            ],
+            [
+              "5",
+              "[@piquadrat](https://github.com/piquadrat)/[**django-shop-sofortpa…**](https://github.com/piquadrat/django-shop-sofortpayment)",
+              "A Sofort Bank payment backend for django SHOP",
+              ""
+            ],
+            [
+              "5",
+              "[@piquadrat](https://github.com/piquadrat)/[**cmsplugin-filer-html…**](https://github.com/piquadrat/cmsplugin-filer-html5video)",
+              "HTML5 video plugin for django CMS and django-filer, using VideoJS",
+              ""
+            ],
+            [
+              "4",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**django-rick**](https://github.com/KristianOellegaard/django-rick)",
+              "a plugin for your personal website or link redirector service",
+              "[:arrow_upper_right:](http://www.youtube.com/embed/oHg5SJYRHA0)"
+            ],
+            [
+              "4",
+              "[@piquadrat](https://github.com/piquadrat)/[**django-signedforms**](https://github.com/piquadrat/django-signedforms)",
+              "A signed Django form",
+              ""
+            ],
+            [
+              "4",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**django-shop-simple**](https://github.com/KristianOellegaard/django-shop-simple)",
+              "django-shop doesn't come with design and templates - this is an example on how it can be implemented",
+              ""
+            ],
+            [
+              "4",
+              "[@alesdotio](https://github.com/alesdotio)/[**djangocms-store-loca…**](https://github.com/alesdotio/djangocms-store-locator)",
+              "A simple store locator plugin for django CMS that uses Google Maps",
+              ""
+            ],
+            [
+              "4",
+              "[@Eckankar](https://github.com/Eckankar)/[**ects-striden**](https://github.com/Eckankar/ects-striden)",
+              "Episk ECTS-strid til døden (eller kandidaten).",
+              "[:arrow_upper_right:](http://ects.coq.dk)"
+            ],
+            [
+              "4",
+              "[@piquadrat](https://github.com/piquadrat)/[**django-minitrue**](https://github.com/piquadrat/django-minitrue)",
+              "django-minitrue is a search & replace app for content that is stored in Django models",
+              ""
+            ],
+            [
+              "4",
+              "[@keleshev](https://github.com/keleshev)/[**tau**](https://github.com/keleshev/tau)",
+              "Tau—time series database",
+              ""
+            ],
+            [
+              "4",
+              "[@Tehnix](https://github.com/Tehnix)/[**PyIRCParser**](https://github.com/Tehnix/PyIRCParser)",
+              "A python module for parsing IRC output and returning it in a structured way.",
+              ""
+            ],
+            [
+              "3",
+              "[@piquadrat](https://github.com/piquadrat)/[**django-lithium-api**](https://github.com/piquadrat/django-lithium-api)",
+              "A (very) limited implementation of the Lithium REST API for Django",
+              "[:arrow_upper_right:](https://github.com/piquadrat/django-lithium-api)"
+            ],
+            [
+              "3",
+              "[@andersbll](https://github.com/andersbll)/[**deeppy_experimental**](https://github.com/andersbll/deeppy_experimental)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@Eckankar](https://github.com/Eckankar)/[**HCI-koldskaal**](https://github.com/Eckankar/HCI-koldskaal)",
+              "Koldskålsopgaven til HCI",
+              "[:arrow_upper_right:](http://pensionist.coq.dk)"
+            ],
+            [
+              "3",
+              "[@andersbll](https://github.com/andersbll)/[**theano_ops**](https://github.com/andersbll/theano_ops)",
+              "My Theano ops",
+              ""
+            ],
+            [
+              "3",
+              "[@alesdotio](https://github.com/alesdotio)/[**django-standard-form**](https://github.com/alesdotio/django-standard-form)",
+              "Simple django template tags for rendering forms.",
+              ""
+            ],
+            [
+              "2",
+              "[@Tehnix](https://github.com/Tehnix)/[**cred-server**](https://github.com/Tehnix/cred-server)",
+              "Connected Reactive Electronic Devices",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/cred-server/)"
+            ],
+            [
+              "2",
+              "[@Eckankar](https://github.com/Eckankar)/[**pyset**](https://github.com/Eckankar/pyset)",
+              "A SET clone in Python",
+              ""
+            ],
+            [
+              "2",
+              "[@alrojo](https://github.com/alrojo)/[**ZoomSPN**](https://github.com/alrojo/ZoomSPN)",
+              "zooming spn",
+              ""
+            ],
+            [
+              "2",
+              "[@alesdotio](https://github.com/alesdotio)/[**cmsplugin-multiple-f…**](https://github.com/alesdotio/cmsplugin-multiple-faq)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**cfd**](https://github.com/KristianOellegaard/cfd)",
+              "Temporary project for the yet-to-be-named config management system",
+              "[:arrow_upper_right:](https://cfd.readthedocs.org/en/latest/)"
+            ],
+            [
+              "2",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**docker-service-provi…**](https://github.com/KristianOellegaard/docker-service-provisioner)",
+              "A generic service provisioner, that uses Dockerfiles. Compatible with the heroku provider API.",
+              ""
+            ],
+            [
+              "2",
+              "[@andersbll](https://github.com/andersbll)/[**psp**](https://github.com/andersbll/psp)",
+              "Folding@DIKU",
+              ""
+            ],
+            [
+              "2",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**plasmatrim-python**](https://github.com/KristianOellegaard/plasmatrim-python)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@piquadrat](https://github.com/piquadrat)/[**cmsplugin-feedlist**](https://github.com/piquadrat/cmsplugin-feedlist)",
+              "django CMS feedlist plugin to display a list of items from an RSS/Atom feed (not ready, yet)",
+              ""
+            ],
+            [
+              "2",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**django-hostinfo-proj…**](https://github.com/KristianOellegaard/django-hostinfo-project)",
+              "displays a small site with information about the host, you can use it for testing e.g. a loadbalancer setup",
+              ""
+            ],
+            [
+              "2",
+              "[@piquadrat](https://github.com/piquadrat)/[**django-shop-saferpay**](https://github.com/piquadrat/django-shop-saferpay)",
+              "A django SHOP payment backend for saferpay",
+              ""
+            ],
+            [
+              "2",
+              "[@andersbll](https://github.com/andersbll)/[**jetdesc**](https://github.com/andersbll/jetdesc)",
+              "Local feature description using image jets",
+              ""
+            ],
+            [
+              "2",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**snapsekassen**](https://github.com/KristianOellegaard/snapsekassen)",
+              "An advanced Schnapps account keeper, written in Django.",
+              "[:arrow_upper_right:](http://snapsekassen.herokuapp.com/)"
+            ],
+            [
+              "2",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**python-harvest**](https://github.com/KristianOellegaard/python-harvest)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@simonbs](https://github.com/simonbs)/[**dldr**](https://github.com/simonbs/dldr)",
+              "Download programs from DR TV.",
+              ""
+            ],
+            [
+              "2",
+              "[@portify](https://github.com/portify)/[**io_scene_dts**](https://github.com/portify/io_scene_dts)",
+              "A modern Blender plugin for working with DTS/DSQ assets. Includes an importer and an exporter.",
+              ""
+            ],
+            [
+              "2",
+              "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**dokku-controller-age…**](https://github.com/KristianOellegaard/dokku-controller-agent)",
+              "",
+              ""
             ]
           ]
         }
