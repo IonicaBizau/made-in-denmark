@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -2678,6 +2679,33 @@
               "[@tt](https://github.com/tt)/[**NDjangoContrib**](https://github.com/tt/NDjangoContrib)",
               "",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "26",
+              "[@lamotta](https://github.com/lamotta)/[**specialsboard**](https://github.com/lamotta/specialsboard)",
+              "Special Boards (Coda) Color Scheme for Sublime Text 2",
+              ""
+            ],
+            [
+              "4",
+              "[@peterbrinck](https://github.com/peterbrinck)/[**cockpit-starter**](https://github.com/peterbrinck/cockpit-starter)",
+              "Cockpit Starter -",
+              "[:arrow_upper_right:](https://peterbrinck.github.io/cockpit-starter/)"
             ]
           ]
         }
