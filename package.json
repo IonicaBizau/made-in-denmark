@@ -58,7 +58,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Lua](#lua)",
-          "[Matlab](#matlab)"
+          "[Matlab](#matlab)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -3798,6 +3799,243 @@
               "[@ulrikls](https://github.com/ulrikls)/[**niak**](https://github.com/ulrikls/niak)",
               "Neuroimaging Analysis Kit for Matlab and Octave",
               "[:arrow_upper_right:](http://code.google.com/p/niak/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "370",
+              "[@kasperpihl](https://github.com/kasperpihl)/[**KPTimePicker**](https://github.com/kasperpihl/KPTimePicker)",
+              "Simplistic and easy-to-use timerpicker to replace Apple's",
+              ""
+            ],
+            [
+              "261",
+              "[@viezel](https://github.com/viezel)/[**TiSocial.Framework**](https://github.com/viezel/TiSocial.Framework)",
+              "iOS6+ Social.Framework. Appcelerator apps are able to share content to Facebook and Twitter.",
+              ""
+            ],
+            [
+              "140",
+              "[@viezel](https://github.com/viezel)/[**NappSlideMenu**](https://github.com/viezel/NappSlideMenu)",
+              "a new UI component for Appcelerator Titanium ",
+              ""
+            ],
+            [
+              "126",
+              "[@neoneye](https://github.com/neoneye)/[**autodescribe**](https://github.com/neoneye/autodescribe)",
+              "Prints human-readable information about an instance",
+              ""
+            ],
+            [
+              "125",
+              "[@viezel](https://github.com/viezel)/[**NappUI**](https://github.com/viezel/NappUI)",
+              "A collection of extended functionality for the UI components of Titanium SDK",
+              ""
+            ],
+            [
+              "106",
+              "[@InfiniteLoopDK](https://github.com/InfiniteLoopDK)/[**ILGeoNames**](https://github.com/InfiniteLoopDK/ILGeoNames)",
+              "Various helper classes for accessing the free geocoding services at geonames.org",
+              "[:arrow_upper_right:](http://www.infinite-loop.dk/developer/ilgeonames/)"
+            ],
+            [
+              "84",
+              "[@InfiniteLoopDK](https://github.com/InfiniteLoopDK)/[**ILTesting**](https://github.com/InfiniteLoopDK/ILTesting)",
+              "Various helper classes to assist when testing for iOS and Mac OS X",
+              ""
+            ],
+            [
+              "74",
+              "[@viezel](https://github.com/viezel)/[**NappAppearance**](https://github.com/viezel/NappAppearance)",
+              "Use the power of iOS UIAppearance on Titanium UI components",
+              ""
+            ],
+            [
+              "70",
+              "[@sebreh](https://github.com/sebreh)/[**SBRXCallbackURLKit**](https://github.com/sebreh/SBRXCallbackURLKit)",
+              "Simple library that makes it easy to add x-callback-url support to your app.",
+              ""
+            ],
+            [
+              "67",
+              "[@Tyilo](https://github.com/Tyilo)/[**NetworkAutoLogin**](https://github.com/Tyilo/NetworkAutoLogin)",
+              "Automagically logs into to Captive Portal Networks",
+              ""
+            ],
+            [
+              "51",
+              "[@SSA111](https://github.com/SSA111)/[**SSAPullToRefresh**](https://github.com/SSA111/SSAPullToRefresh)",
+              "A simple PullToRefresh implementation, heavily inspired by XHRefreshControl, RHRefreshControl, SVProgressHUD & the look of the Facebook iOS App PullToRefresh component.",
+              ""
+            ],
+            [
+              "50",
+              "[@osteslag](https://github.com/osteslag)/[**trim-ios-screenshots**](https://github.com/osteslag/trim-ios-screenshots)",
+              "[NO LONGER MAINTAINED] Xcode project to build Foundation command line utility and Automator action for trimming the status bar from iOS screenshots.",
+              ""
+            ],
+            [
+              "48",
+              "[@neoneye](https://github.com/neoneye)/[**newton-commander**](https://github.com/neoneye/newton-commander)",
+              "Dual-pane file manager with tabs for OSX",
+              ""
+            ],
+            [
+              "41",
+              "[@viezel](https://github.com/viezel)/[**NappImageView**](https://github.com/viezel/NappImageView)",
+              "iOS ImageView that supports ContentModes: AspectFit, AspectFill and Center",
+              ""
+            ],
+            [
+              "32",
+              "[@viezel](https://github.com/viezel)/[**NappScrollViewExtend…**](https://github.com/viezel/NappScrollViewExtended)",
+              "TiUIScrollView extended with Pull To Refresh and Infinite Scrolling functionalities.",
+              ""
+            ],
+            [
+              "30",
+              "[@Fogh](https://github.com/Fogh)/[**AFWebViewController**](https://github.com/Fogh/AFWebViewController)",
+              "In-app browser that uses WKWebView",
+              ""
+            ],
+            [
+              "29",
+              "[@viezel](https://github.com/viezel)/[**NappPDFCreator**](https://github.com/viezel/NappPDFCreator)",
+              "This iOS module lets you generate PDF files from HTML or URL.",
+              ""
+            ],
+            [
+              "25",
+              "[@Fogh](https://github.com/Fogh)/[**AFAddressBookManager**](https://github.com/Fogh/AFAddressBookManager)",
+              "Get contacts from iOS Address Book by their phone numbers and email addresses. Works on iOS 6+.",
+              ""
+            ],
+            [
+              "23",
+              "[@viezel](https://github.com/viezel)/[**NappWaveformView**](https://github.com/viezel/NappWaveformView)",
+              "iOS module for titanium - Shows a graph of an audio file",
+              ""
+            ],
+            [
+              "19",
+              "[@InfiniteLoopDK](https://github.com/InfiniteLoopDK)/[**ILBitly**](https://github.com/InfiniteLoopDK/ILBitly)",
+              "Objective C wrapper class for various URL shortening services at bitly.com",
+              "[:arrow_upper_right:](http://www.infinite-loop.dk/developer/ilbitly/)"
+            ],
+            [
+              "17",
+              "[@Tyilo](https://github.com/Tyilo)/[**objc_instance_finder**](https://github.com/Tyilo/objc_instance_finder)",
+              "Find instances of objc classes at runtime",
+              ""
+            ],
+            [
+              "16",
+              "[@SSA111](https://github.com/SSA111)/[**SSACreditCardValidat…**](https://github.com/SSA111/SSACreditCardValidator)",
+              "A simple creditcard validation class for iOS",
+              ""
+            ],
+            [
+              "9",
+              "[@osteslag](https://github.com/osteslag)/[**custom-container-tra…**](https://github.com/osteslag/custom-container-transitions)",
+              "A custom container view controller built with support for custom child view controller transition animations, in three stages",
+              "[:arrow_upper_right:](http://www.objc.io/)"
+            ],
+            [
+              "9",
+              "[@trenskow](https://github.com/trenskow)/[**TrReadWriteLock**](https://github.com/trenskow/TrReadWriteLock)",
+              "Simple Objective-C read write lock library written using mutexs and semaphores.",
+              ""
+            ],
+            [
+              "8",
+              "[@jonathanbp](https://github.com/jonathanbp)/[**bluetool**](https://github.com/jonathanbp/bluetool)",
+              "enumerates discoverable bluetooth devices within range of your mac",
+              "[:arrow_upper_right:](http://itu.dk/people/jonathan/code)"
+            ],
+            [
+              "7",
+              "[@trenskow](https://github.com/trenskow)/[**TrAnimate**](https://github.com/trenskow/TrAnimate)",
+              "An iOS animation library for advanced animations.",
+              ""
+            ],
+            [
+              "6",
+              "[@viezel](https://github.com/viezel)/[**NappNUI**](https://github.com/viezel/NappNUI)",
+              "NUI for Appcelerator Titanium. NUI is a css styling UI Kit for iOS.",
+              ""
+            ],
+            [
+              "5",
+              "[@mbogh](https://github.com/mbogh)/[**NSManagedObject-Reve…**](https://github.com/mbogh/NSManagedObject-RevertChanges)",
+              "Needed a simple way of reverting changes in small NSMangedObjects and the NSUndoManager was acting up. All props goes to http://www.section42.de/2011/07/01/cored… the only thing I did were avoid NSNull :)",
+              ""
+            ],
+            [
+              "4",
+              "[@Tyilo](https://github.com/Tyilo)/[**Lid-sleep**](https://github.com/Tyilo/Lid-sleep)",
+              "Automatically sleep a MacBook when closing the lid with an external screen attached.",
+              ""
+            ],
+            [
+              "4",
+              "[@mariusc](https://github.com/mariusc)/[**FlyingBirdie**](https://github.com/mariusc/FlyingBirdie)",
+              "A small Cocos2D game for iOS, similar to the helicopter game.",
+              ""
+            ],
+            [
+              "3",
+              "[@rhummelmose](https://github.com/rhummelmose)/[**ePay**](https://github.com/rhummelmose/ePay)",
+              "Easy to use Objective-C library for the payment gateway ePay.",
+              ""
+            ],
+            [
+              "3",
+              "[@osteslag](https://github.com/osteslag)/[**cocoa-heads-cph-dk-0…**](https://github.com/osteslag/cocoa-heads-cph-dk-04-14)",
+              "Code and presentation from the CocoaHeads meet-up in Copenhagen on April 14, 2014.",
+              ""
+            ],
+            [
+              "3",
+              "[@sebreh](https://github.com/sebreh)/[**SRGridLocation**](https://github.com/sebreh/SRGridLocation)",
+              "SRGridLocation provides a convenient way to convert between Swedish grid and GPS coordinates.",
+              ""
+            ],
+            [
+              "3",
+              "[@bthj](https://github.com/bthj)/[**Mannanofn**](https://github.com/bthj/Mannanofn)",
+              "Íslensk mannanöfn",
+              "[:arrow_upper_right:](http://www.nemur.net/nefna)"
+            ],
+            [
+              "2",
+              "[@jonathanbp](https://github.com/jonathanbp)/[**mapifs**](https://github.com/jonathanbp/mapifs)",
+              "fs for an internal rest service",
+              ""
+            ],
+            [
+              "2",
+              "[@Fogh](https://github.com/Fogh)/[**iCloudExample**](https://github.com/Fogh/iCloudExample)",
+              "iOS Universal app - Shopping list. Simple example of Core Data iCloud synchronization between devices.",
+              ""
+            ],
+            [
+              "2",
+              "[@neoneye](https://github.com/neoneye)/[**cocoaheads-2013-game…**](https://github.com/neoneye/cocoaheads-2013-game0)",
+              "cocoaheads game in an evening",
+              ""
             ]
           ]
         }
