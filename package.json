@@ -59,7 +59,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -4035,6 +4036,111 @@
               "2",
               "[@neoneye](https://github.com/neoneye)/[**cocoaheads-2013-game…**](https://github.com/neoneye/cocoaheads-2013-game0)",
               "cocoaheads game in an evening",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "37",
+              "[@MadsAlbertsen](https://github.com/MadsAlbertsen)/[**multi-metagenome**](https://github.com/MadsAlbertsen/multi-metagenome)",
+              "",
+              ""
+            ],
+            [
+              "17",
+              "[@henrikbrixandersen](https://github.com/henrikbrixandersen)/[**irssi-prowl**](https://github.com/henrikbrixandersen/irssi-prowl)",
+              "Irssi plug-in for sending Prowl notifications",
+              ""
+            ],
+            [
+              "8",
+              "[@MadsAlbertsen](https://github.com/MadsAlbertsen)/[**miscperlscripts**](https://github.com/MadsAlbertsen/miscperlscripts)",
+              "Small collection of random useful perl scripts",
+              ""
+            ],
+            [
+              "7",
+              "[@kaare](https://github.com/kaare)/[**Role-REST-Client**](https://github.com/kaare/Role-REST-Client)",
+              "Rest Client Role",
+              ""
+            ],
+            [
+              "4",
+              "[@kaare](https://github.com/kaare)/[**Catalyst-Model-REST**](https://github.com/kaare/Catalyst-Model-REST)",
+              "Catalyst Model for Restful Interfaces",
+              ""
+            ],
+            [
+              "3",
+              "[@kaare](https://github.com/kaare)/[**JobMachine**](https://github.com/kaare/JobMachine)",
+              "Job queue using PostgreSQL",
+              ""
+            ],
+            [
+              "3",
+              "[@henrikbrixandersen](https://github.com/henrikbrixandersen)/[**sony-gps-assist**](https://github.com/henrikbrixandersen/sony-gps-assist)",
+              "Small perl script for updating the GPS Assist Data on a SONY digital camera",
+              ""
+            ],
+            [
+              "3",
+              "[@tobez](https://github.com/tobez)/[**port-tags**](https://github.com/tobez/port-tags)",
+              "Browse FreeBSD ports collection by tags, a la delicious.",
+              "[:arrow_upper_right:](http://www.tobez.org/about-port-tags.html)"
+            ],
+            [
+              "2",
+              "[@kaare](https://github.com/kaare)/[**Role-REST-Client-Aut…**](https://github.com/kaare/Role-REST-Client-Auth-Basic)",
+              "Basic Authentication for REST Client Role",
+              ""
+            ],
+            [
+              "2",
+              "[@tobez](https://github.com/tobez)/[**DBD-OraLite**](https://github.com/tobez/DBD-OraLite)",
+              "Oracle emulation mode for SQLite",
+              ""
+            ],
+            [
+              "2",
+              "[@soren](https://github.com/soren)/[**App-TimeClock**](https://github.com/soren/App-TimeClock)",
+              "A timeclock reporting utility",
+              "[:arrow_upper_right:](https://metacpan.org/release/App-TimeClock)"
+            ],
+            [
+              "2",
+              "[@tagg](https://github.com/tagg)/[**Date-Holidays-DK**](https://github.com/tagg/Date-Holidays-DK)",
+              "Determine Danish public holidays",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Date-Holidays-DK/)"
+            ],
+            [
+              "2",
+              "[@warming](https://github.com/warming)/[**dbix-lazymethod**](https://github.com/warming/dbix-lazymethod)",
+              "Perl DBIx::LazyMethod CPAN module",
+              ""
+            ],
+            [
+              "2",
+              "[@MadsAlbertsen](https://github.com/MadsAlbertsen)/[**16S-analysis**](https://github.com/MadsAlbertsen/16S-analysis)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@kaare](https://github.com/kaare)/[**ReportWriter**](https://github.com/kaare/ReportWriter)",
+              "Generic ReportWriter in Moose Perl.",
               ""
             ]
           ]
