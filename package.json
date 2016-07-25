@@ -65,7 +65,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -6076,6 +6077,63 @@
               "[@jeppenejsum](https://github.com/jeppenejsum)/[**gdata-scala-client**](https://github.com/jeppenejsum/gdata-scala-client)",
               "Fork of gdata-scala-client",
               "[:arrow_upper_right:](http://code.google.com/p/gdata-scala-client/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "925",
+              "[@andsens](https://github.com/andsens)/[**homeshick**](https://github.com/andsens/homeshick)",
+              "git dotfiles synchronizer written in bash",
+              ""
+            ],
+            [
+              "184",
+              "[@aiyodk](https://github.com/aiyodk)/[**Alfred-Extensions**](https://github.com/aiyodk/Alfred-Extensions)",
+              "",
+              ""
+            ],
+            [
+              "133",
+              "[@simonclausen](https://github.com/simonclausen)/[**dnscrypt-autoinstall**](https://github.com/simonclausen/dnscrypt-autoinstall)",
+              "Automatic installation and configuration of DNSCrypt (on Debian + Redhat like systems). This script will install DNSCrypt and configure it to start on boot and use an optional dnscrypt service.",
+              ""
+            ],
+            [
+              "6",
+              "[@andsens](https://github.com/andsens)/[**rc-files**](https://github.com/andsens/rc-files)",
+              "homesick compatible bashrc and zshrc files",
+              ""
+            ],
+            [
+              "4",
+              "[@holsta](https://github.com/holsta)/[**sitexytools**](https://github.com/holsta/sitexytools)",
+              "Helper utilities for managing siteXY.tgz files related to OpenBSD installation",
+              "[:arrow_upper_right:](http://mongers.org/openbsd/siteXYtools/)"
+            ],
+            [
+              "4",
+              "[@holsta](https://github.com/holsta)/[**dotfiles**](https://github.com/holsta/dotfiles)",
+              "holsta's dotfiles for OpenBSD desktop and OS X laptop",
+              ""
+            ],
+            [
+              "2",
+              "[@swordfischer](https://github.com/swordfischer)/[**Snapper**](https://github.com/swordfischer/Snapper)",
+              "",
+              ""
             ]
           ]
         }
