@@ -62,7 +62,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -5343,6 +5344,141 @@
               "2",
               "[@KristianOellegaard](https://github.com/KristianOellegaard)/[**dokku-controller-age…**](https://github.com/KristianOellegaard/dokku-controller-agent)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "393",
+              "[@smbache](https://github.com/smbache)/[**magrittr**](https://github.com/smbache/magrittr)",
+              "R package to bring forward-piping features ala F#'s |> operator. Ceci n'est pas un pipe.",
+              "[:arrow_upper_right:](http://cran.r-project.org/web/packages/magrittr/index.html)"
+            ],
+            [
+              "148",
+              "[@skardhamar](https://github.com/skardhamar)/[**rga**](https://github.com/skardhamar/rga)",
+              "R Google Analytics",
+              ""
+            ],
+            [
+              "47",
+              "[@smbache](https://github.com/smbache)/[**import**](https://github.com/smbache/import)",
+              "An Import Mechanism For R",
+              ""
+            ],
+            [
+              "45",
+              "[@smbache](https://github.com/smbache)/[**loggr**](https://github.com/smbache/loggr)",
+              "Easy and flexible logging for R",
+              ""
+            ],
+            [
+              "22",
+              "[@xrobin](https://github.com/xrobin)/[**pROC**](https://github.com/xrobin/pROC)",
+              "Display and analyze ROC curves in R and S+",
+              "[:arrow_upper_right:](http://www.expasy.org/tools/pROC/)"
+            ],
+            [
+              "12",
+              "[@sorhawell](https://github.com/sorhawell)/[**forestFloor**](https://github.com/sorhawell/forestFloor)",
+              "R package to visualize mapping structures of random forests with feature contributions",
+              "[:arrow_upper_right:](http://forestFloor.dk)"
+            ],
+            [
+              "8",
+              "[@smbache](https://github.com/smbache)/[**squr**](https://github.com/smbache/squr)",
+              "Structured Query Utility for R",
+              ""
+            ],
+            [
+              "5",
+              "[@smbache](https://github.com/smbache)/[**immutequality**](https://github.com/smbache/immutequality)",
+              "Use Equality Assignment for Immutability in R",
+              ""
+            ],
+            [
+              "5",
+              "[@skardhamar](https://github.com/skardhamar)/[**ga-auth-data**](https://github.com/skardhamar/ga-auth-data)",
+              "Google Analytics Auth Data",
+              ""
+            ],
+            [
+              "4",
+              "[@haghish](https://github.com/haghish)/[**convertGraph**](https://github.com/haghish/convertGraph)",
+              "R package for converting graphical files to one another",
+              ""
+            ],
+            [
+              "4",
+              "[@fghjorth](https://github.com/fghjorth)/[**marginsplot**](https://github.com/fghjorth/marginsplot)",
+              "R code for creating Stata-like \"marginsplot\" plots of marginal effects across a moderator variable in R. The ambition is to incorporate the code in an R package.",
+              ""
+            ],
+            [
+              "4",
+              "[@AEBilgrau](https://github.com/AEBilgrau)/[**GMCM**](https://github.com/AEBilgrau/GMCM)",
+              "Unsupervised Clustering and Meta-analysis using Gaussian Mixture Copula Models",
+              "[:arrow_upper_right:](http://cran.r-project.org/package=GMCM)"
+            ],
+            [
+              "3",
+              "[@xrobin](https://github.com/xrobin)/[**mnist**](https://github.com/xrobin/mnist)",
+              "Makes the MNIST dataset easily accessible in R",
+              ""
+            ],
+            [
+              "3",
+              "[@skardhamar](https://github.com/skardhamar)/[**r-youtube-ranking**](https://github.com/skardhamar/r-youtube-ranking)",
+              "R Youtube Ranking",
+              ""
+            ],
+            [
+              "2",
+              "[@AEBilgrau](https://github.com/AEBilgrau)/[**DLBCLdata**](https://github.com/AEBilgrau/DLBCLdata)",
+              "Gene expression profiles on Diffuse Large B-Cell Lymphoma",
+              ""
+            ],
+            [
+              "2",
+              "[@AEBilgrau](https://github.com/AEBilgrau)/[**correlateR**](https://github.com/AEBilgrau/correlateR)",
+              "General purpose correlation and covariance estimation",
+              ""
+            ],
+            [
+              "2",
+              "[@AEBilgrau](https://github.com/AEBilgrau)/[**effadj**](https://github.com/AEBilgrau/effadj)",
+              "Variance approximations of efficiency adjusted delta-delta-Cq-values",
+              ""
+            ],
+            [
+              "2",
+              "[@fghjorth](https://github.com/fghjorth)/[**danishpolls**](https://github.com/fghjorth/danishpolls)",
+              "R code for extracting and analyzing Danish general election polling data",
+              ""
+            ],
+            [
+              "2",
+              "[@stanstrup](https://github.com/stanstrup)/[**PredRet**](https://github.com/stanstrup/PredRet)",
+              "Shiny app for retention time prediction",
+              ""
+            ],
+            [
+              "2",
+              "[@smbache](https://github.com/smbache)/[**blatr**](https://github.com/smbache/blatr)",
+              "A simple R wrapper for Blat SMTP mailer for Windows.",
               ""
             ]
           ]
