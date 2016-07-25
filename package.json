@@ -55,7 +55,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -3467,6 +3468,201 @@
               "3",
               "[@zozor](https://github.com/zozor)/[**Cecils-Adventure**](https://github.com/zozor/Cecils-Adventure)",
               "A little Game i wrote in Go using SDL library",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "69",
+              "[@np](https://github.com/np)/[**ling**](https://github.com/np/ling)",
+              "LINear LaNGuage: Type Theory and Process Calculi for Distributed and High-precision programming",
+              ""
+            ],
+            [
+              "24",
+              "[@diku-kmc](https://github.com/diku-kmc)/[**kleenexlang**](https://github.com/diku-kmc/kleenexlang)",
+              "The Kleenex programming language",
+              "[:arrow_upper_right:](http://kleenexlang.org)"
+            ],
+            [
+              "20",
+              "[@pa-ba](https://github.com/pa-ba)/[**compdata**](https://github.com/pa-ba/compdata)",
+              "Haskell library implementing \"Data Types a la Carte\"",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/compdata)"
+            ],
+            [
+              "8",
+              "[@reenberg](https://github.com/reenberg)/[**xmonad**](https://github.com/reenberg/xmonad)",
+              "XMonad darcs mirror in the vanilla branch, with others and my own modifications that we strive to push upstream",
+              "[:arrow_upper_right:](http://xmonad.org/)"
+            ],
+            [
+              "8",
+              "[@pa-ba](https://github.com/pa-ba)/[**alfred**](https://github.com/pa-ba/alfred)",
+              "Haskell library for writing workflows for Alfred 2.",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/alfred)"
+            ],
+            [
+              "6",
+              "[@niswegmann](https://github.com/niswegmann)/[**copilot-language**](https://github.com/niswegmann/copilot-language)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@pa-ba](https://github.com/pa-ba)/[**compdata-dags**](https://github.com/pa-ba/compdata-dags)",
+              "Compositional Data Types on DAGs",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/compdata-dags)"
+            ],
+            [
+              "6",
+              "[@reenberg](https://github.com/reenberg)/[**wobot**](https://github.com/reenberg/wobot)",
+              "bachelor '09",
+              ""
+            ],
+            [
+              "5",
+              "[@Athas](https://github.com/Athas)/[**gsmenu**](https://github.com/Athas/gsmenu)",
+              "A visual generic menu program.",
+              ""
+            ],
+            [
+              "5",
+              "[@niswegmann](https://github.com/niswegmann)/[**copilot-c99**](https://github.com/niswegmann/copilot-c99)",
+              "A C99-backend for Copilot",
+              ""
+            ],
+            [
+              "5",
+              "[@reenberg](https://github.com/reenberg)/[**XMonadContrib**](https://github.com/reenberg/XMonadContrib)",
+              "XMonadContrib darcs mirror in the vanilla branch, with others and my own modifications that we strive to push upstream",
+              "[:arrow_upper_right:](http://xmonad.org/)"
+            ],
+            [
+              "4",
+              "[@np](https://github.com/np)/[**hlatex**](https://github.com/np/hlatex)",
+              "LaTeX document builder for Haskell",
+              ""
+            ],
+            [
+              "4",
+              "[@np](https://github.com/np)/[**mbox-tools**](https://github.com/np/mbox-tools)",
+              "A collection of command line tools on the mbox format",
+              ""
+            ],
+            [
+              "3",
+              "[@pa-ba](https://github.com/pa-ba)/[**compdata-param**](https://github.com/pa-ba/compdata-param)",
+              "Haskell library implementing parametric compositional data types.",
+              "[:arrow_upper_right:](https://hackage.haskell.org/package/compdata-param)"
+            ],
+            [
+              "3",
+              "[@niswegmann](https://github.com/niswegmann)/[**copilot-core**](https://github.com/niswegmann/copilot-core)",
+              "Intermediate representation for CoPilot. Strictly follows Haskell 2010 except for universal and existential quantification.",
+              ""
+            ],
+            [
+              "3",
+              "[@np](https://github.com/np)/[**tdoc**](https://github.com/np/tdoc)",
+              "TDoc is a typed document builder with support for (X)HTML",
+              ""
+            ],
+            [
+              "3",
+              "[@diku-kmc](https://github.com/diku-kmc)/[**regexps-syntax**](https://github.com/diku-kmc/regexps-syntax)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@Athas](https://github.com/Athas)/[**getflag**](https://github.com/Athas/getflag)",
+              "Plan 9/AT&T Unix/Suckless command flag parsing library for Haskell",
+              ""
+            ],
+            [
+              "3",
+              "[@Athas](https://github.com/Athas)/[**sigkill.dk**](https://github.com/Athas/sigkill.dk)",
+              "The sigkill.dk web site (without static files)",
+              "[:arrow_upper_right:](http://sigkill.dk)"
+            ],
+            [
+              "3",
+              "[@reenberg](https://github.com/reenberg)/[**Regular-expression-b…**](https://github.com/reenberg/Regular-expression-based-bit-coding)",
+              "Regular-expression based bit coding",
+              ""
+            ],
+            [
+              "3",
+              "[@mraleph](https://github.com/mraleph)/[**Ganriki**](https://github.com/mraleph/Ganriki)",
+              "A tool for the Java bytecode analysis and manipulation written in Haskell",
+              ""
+            ],
+            [
+              "2",
+              "[@np](https://github.com/np)/[**mime-bytestring**](https://github.com/np/mime-bytestring)",
+              "A for of the mime haskell package to work on bytestrings as well",
+              ""
+            ],
+            [
+              "2",
+              "[@ulrikrasmussen](https://github.com/ulrikrasmussen)/[**Proof**](https://github.com/ulrikrasmussen/Proof)",
+              "Monad for checking proofs in propositional logic, with support for typesetting the proof in LaTeX",
+              ""
+            ],
+            [
+              "2",
+              "[@niswegmann](https://github.com/niswegmann)/[**copilot-cbmc**](https://github.com/niswegmann/copilot-cbmc)",
+              "cbmc based tool for verifying copilot programs",
+              ""
+            ],
+            [
+              "2",
+              "[@pa-ba](https://github.com/pa-ba)/[**compdata-automata**](https://github.com/pa-ba/compdata-automata)",
+              "Tree automata on Compositional Data Types",
+              "[:arrow_upper_right:](http://hackage.haskell.org/package/compdata-automata)"
+            ],
+            [
+              "2",
+              "[@niswegmann](https://github.com/niswegmann)/[**murmurhash3**](https://github.com/niswegmann/murmurhash3)",
+              "Haskell framework for 32-bit non-cryptographic hashing using MurmurHash3.",
+              ""
+            ],
+            [
+              "2",
+              "[@Athas](https://github.com/Athas)/[**twelfppr**](https://github.com/Athas/twelfppr)",
+              "A tool for prettyprinting Twelf code",
+              ""
+            ],
+            [
+              "2",
+              "[@Athas](https://github.com/Athas)/[**icfp2012**](https://github.com/Athas/icfp2012)",
+              "\"Solution\" to the ICFP 2012 contest by people from DIKU.  Seems we're not too good at heuristics.",
+              ""
+            ],
+            [
+              "2",
+              "[@oleks](https://github.com/oleks)/[**diku-oopd-2012**](https://github.com/oleks/diku-oopd-2012)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@reenberg](https://github.com/reenberg)/[**.xmonad**](https://github.com/reenberg/.xmonad)",
+              "",
               ""
             ]
           ]
