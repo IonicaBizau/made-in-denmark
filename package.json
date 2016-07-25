@@ -64,7 +64,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -6006,6 +6007,75 @@
               "[@koppen](https://github.com/koppen)/[**bottleships**](https://github.com/koppen/bottleships)",
               "Pitch your algorithm versus those of your friends in the epic game of Battleships. May the best bot win.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "11",
+              "[@mads379](https://github.com/mads379)/[**Functional-Dictionar…**](https://github.com/mads379/Functional-Dictionary)",
+              "A Lift based web application. It's a dictionary of Functional Programming terms.",
+              "[:arrow_upper_right:](http://functionaldictionary.mads379.staxapps.net/)"
+            ],
+            [
+              "11",
+              "[@mads379](https://github.com/mads379)/[**sbt-plugin-examples**](https://github.com/mads379/sbt-plugin-examples)",
+              "Example SBT plugins",
+              ""
+            ],
+            [
+              "7",
+              "[@mads379](https://github.com/mads379)/[**scala-formlets**](https://github.com/mads379/scala-formlets)",
+              "Formlet implementation in Scala",
+              ""
+            ],
+            [
+              "7",
+              "[@jeppenejsum](https://github.com/jeppenejsum)/[**lift-crud**](https://github.com/jeppenejsum/lift-crud)",
+              "Sample use cases for sample Lift CRUD scenarios",
+              ""
+            ],
+            [
+              "5",
+              "[@mads379](https://github.com/mads379)/[**Multisets**](https://github.com/mads379/Multisets)",
+              "Multiset implementation in Scala",
+              "[:arrow_upper_right:](http://mads379.github.com/Multisets/)"
+            ],
+            [
+              "2",
+              "[@mads379](https://github.com/mads379)/[**lift-blank.g8**](https://github.com/mads379/lift-blank.g8)",
+              "Giter8 template for Lift",
+              ""
+            ],
+            [
+              "2",
+              "[@mads379](https://github.com/mads379)/[**monad-transformers-p…**](https://github.com/mads379/monad-transformers-presentation)",
+              "Code used for a presentation on Monad Transformers in Scalaz 7",
+              ""
+            ],
+            [
+              "2",
+              "[@jeppenejsum](https://github.com/jeppenejsum)/[**lift-gc-ajax**](https://github.com/jeppenejsum/lift-gc-ajax)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jeppenejsum](https://github.com/jeppenejsum)/[**gdata-scala-client**](https://github.com/jeppenejsum/gdata-scala-client)",
+              "Fork of gdata-scala-client",
+              "[:arrow_upper_right:](http://code.google.com/p/gdata-scala-client/)"
             ]
           ]
         }
