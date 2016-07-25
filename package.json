@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -1950,6 +1951,285 @@
               "[@raix](https://github.com/raix)/[**Meteor-EventState**](https://github.com/raix/Meteor-EventState)",
               "Evented state",
               "[:arrow_upper_right:](https://atmospherejs.com/raix/eventstate)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2617",
+              "[@SimonVT](https://github.com/SimonVT)/[**android-menudrawer**](https://github.com/SimonVT/android-menudrawer)",
+              "*DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app.",
+              "[:arrow_upper_right:](http://simonvt.github.com/android-menudrawer/)"
+            ],
+            [
+              "829",
+              "[@MizzleDK](https://github.com/MizzleDK)/[**Mizuu**](https://github.com/MizzleDK/Mizuu)",
+              "Popular media indexer app for Android.",
+              "[:arrow_upper_right:](http://mizuu.tv)"
+            ],
+            [
+              "783",
+              "[@SimonVT](https://github.com/SimonVT)/[**schematic**](https://github.com/SimonVT/schematic)",
+              "Automatically generate ContentProviders",
+              ""
+            ],
+            [
+              "568",
+              "[@SimonVT](https://github.com/SimonVT)/[**MessageBar**](https://github.com/SimonVT/MessageBar)",
+              "An Android Toast replacement, similar to the one seen in the GMail app.",
+              "[:arrow_upper_right:](http://simonvt.github.com/MessageBar/)"
+            ],
+            [
+              "547",
+              "[@SimonVT](https://github.com/SimonVT)/[**android-numberpicker**](https://github.com/SimonVT/android-numberpicker)",
+              "A backport of the Android 4.2 NumberPicker",
+              "[:arrow_upper_right:](https://developer.android.com/reference/android/widget/NumberPicker.html)"
+            ],
+            [
+              "243",
+              "[@SimonVT](https://github.com/SimonVT)/[**android-datepicker**](https://github.com/SimonVT/android-datepicker)",
+              "Android ICS DatePicker backported to 2.2",
+              "[:arrow_upper_right:](https://developer.android.com/reference/android/widget/DatePicker.html)"
+            ],
+            [
+              "228",
+              "[@SimonVT](https://github.com/SimonVT)/[**android-calendarview**](https://github.com/SimonVT/android-calendarview)",
+              "Android CalendarView widget backported to 2.2",
+              "[:arrow_upper_right:](https://developer.android.com/reference/android/widget/CalendarView.html)"
+            ],
+            [
+              "133",
+              "[@NXT](https://github.com/NXT)/[**LEGO-MINDSTORMS-MIND…**](https://github.com/NXT/LEGO-MINDSTORMS-MINDdroid)",
+              "LEGO MINDSTORMS Android Apps",
+              "[:arrow_upper_right:](http://mindstorms.com)"
+            ],
+            [
+              "133",
+              "[@SimonVT](https://github.com/SimonVT)/[**adapterviewanimator**](https://github.com/SimonVT/adapterviewanimator)",
+              "A helper class for animating views within an AdapterView",
+              ""
+            ],
+            [
+              "102",
+              "[@SimonVT](https://github.com/SimonVT)/[**fragmentstack**](https://github.com/SimonVT/fragmentstack)",
+              "Helps manage a stack of fragments in a single container",
+              ""
+            ],
+            [
+              "92",
+              "[@chrisvest](https://github.com/chrisvest)/[**stormpot**](https://github.com/chrisvest/stormpot)",
+              "A fast object pool for the JVM",
+              "[:arrow_upper_right:](http://chrisvest.github.io/stormpot/)"
+            ],
+            [
+              "82",
+              "[@SimonVT](https://github.com/SimonVT)/[**android-timepicker**](https://github.com/SimonVT/android-timepicker)",
+              "Android ICS TimePicker and TimePickerDialog backported to 2.1",
+              "[:arrow_upper_right:](https://developer.android.com/reference/android/widget/TimePicker.html)"
+            ],
+            [
+              "76",
+              "[@SimonVT](https://github.com/SimonVT)/[**cathode**](https://github.com/SimonVT/cathode)",
+              "",
+              ""
+            ],
+            [
+              "73",
+              "[@SimonVT](https://github.com/SimonVT)/[**ThreePaneLayout**](https://github.com/SimonVT/ThreePaneLayout)",
+              "A three pane layout where up to two panes are visible at a time.",
+              ""
+            ],
+            [
+              "44",
+              "[@SimonVT](https://github.com/SimonVT)/[**staggeredgridview**](https://github.com/SimonVT/staggeredgridview)",
+              "A modified version of the StaggeredGridView found in AOSP",
+              ""
+            ],
+            [
+              "37",
+              "[@Philzen](https://github.com/Philzen)/[**WebView-MultiTouch-P…**](https://github.com/Philzen/WebView-MultiTouch-Polyfill)",
+              "A polyfill to gap missing multitouch functionality in HTML5 apps on Android 2.x",
+              ""
+            ],
+            [
+              "22",
+              "[@MizzleDK](https://github.com/MizzleDK)/[**IntroActivity**](https://github.com/MizzleDK/IntroActivity)",
+              "The IntroActivity library allows you to easily create beautiful intro screens for your app.",
+              ""
+            ],
+            [
+              "16",
+              "[@SimonVT](https://github.com/SimonVT)/[**multiple-ui-threads**](https://github.com/SimonVT/multiple-ui-threads)",
+              "A sample that displays how to have multiple UI threads",
+              ""
+            ],
+            [
+              "12",
+              "[@cmelchior](https://github.com/cmelchior)/[**trifork-ibeacon-demo**](https://github.com/cmelchior/trifork-ibeacon-demo)",
+              "Demo app for demonstrating various iBeacon frameworks on Android",
+              ""
+            ],
+            [
+              "12",
+              "[@helipilot50](https://github.com/helipilot50)/[**aerospike-LDT-techni…**](https://github.com/helipilot50/aerospike-LDT-techniques)",
+              "Large Data Type techniques with Aerospike ",
+              ""
+            ],
+            [
+              "11",
+              "[@chrisvest](https://github.com/chrisvest)/[**benchkit**](https://github.com/chrisvest/benchkit)",
+              "Super simple benchmarking framework for Java – DISCONTINUED",
+              ""
+            ],
+            [
+              "8",
+              "[@MizzleDK](https://github.com/MizzleDK)/[**Muzei-500px**](https://github.com/MizzleDK/Muzei-500px)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@chrisvest](https://github.com/chrisvest)/[**nanopool**](https://github.com/chrisvest/nanopool)",
+              "Lightweight and fast JDBC connection pool – DISCONTINUED",
+              "[:arrow_upper_right:](http://chrisvest.github.com/nanopool/)"
+            ],
+            [
+              "7",
+              "[@cmelchior](https://github.com/cmelchior)/[**asciihexgrid**](https://github.com/cmelchior/asciihexgrid)",
+              "Java library for pretty printing hexagonal grids to the command line using ASCII art.",
+              ""
+            ],
+            [
+              "7",
+              "[@cmelchior](https://github.com/cmelchior)/[**hivemind**](https://github.com/cmelchior/hivemind)",
+              "HiveMind is a Java based stand-alone AI implementation for the board game Hive by John Yianni.",
+              ""
+            ],
+            [
+              "6",
+              "[@GirafiStudios](https://github.com/GirafiStudios)/[**BetterTitleScreen**](https://github.com/GirafiStudios/BetterTitleScreen)",
+              "Better Title Screen provides the ability to change the Minecraft title screen text.",
+              ""
+            ],
+            [
+              "6",
+              "[@TATDK](https://github.com/TATDK)/[**BankAccount**](https://github.com/TATDK/BankAccount)",
+              "Bukkit Plugin",
+              "[:arrow_upper_right:](http://forums.bukkit.org/threads/BankAccount.7095/)"
+            ],
+            [
+              "5",
+              "[@chrisvest](https://github.com/chrisvest)/[**object-pool-benchmar…**](https://github.com/chrisvest/object-pool-benchmarks)",
+              "Benchmarks for various object pools that run on the JVM. Built with JMH.",
+              ""
+            ],
+            [
+              "5",
+              "[@cmelchior](https://github.com/cmelchior)/[**Monetizing-Android-D…**](https://github.com/cmelchior/Monetizing-Android-Demo-Project)",
+              "Demo project presented at the Trifork GeekNight \"Monetizing Android: In-app billing and ads\"",
+              ""
+            ],
+            [
+              "5",
+              "[@superrob](https://github.com/superrob)/[**Youtube-giveaway-hel…**](https://github.com/superrob/Youtube-giveaway-helper-2.0)",
+              "A brand new version of my utility for drawing random winners of youtube giveaways.",
+              ""
+            ],
+            [
+              "4",
+              "[@SimonVT](https://github.com/SimonVT)/[**add-in-layout**](https://github.com/SimonVT/add-in-layout)",
+              "Displays an issue where child views added in layout are not all redrawn",
+              ""
+            ],
+            [
+              "3",
+              "[@alathon](https://github.com/alathon)/[**DM-Wizard**](https://github.com/alathon/DM-Wizard)",
+              "BYOND DreamMaker Plugin for Eclipse",
+              ""
+            ],
+            [
+              "3",
+              "[@helipilot50](https://github.com/helipilot50)/[**aerospike-batch-proc…**](https://github.com/helipilot50/aerospike-batch-processing)",
+              "A simple example to batch process all records in an Aerospike namespace",
+              ""
+            ],
+            [
+              "3",
+              "[@MizzleDK](https://github.com/MizzleDK)/[**Mizuu-Android-TV**](https://github.com/MizzleDK/Mizuu-Android-TV)",
+              "Media indexer for Android TV",
+              ""
+            ],
+            [
+              "3",
+              "[@blekinge](https://github.com/blekinge)/[**percipio**](https://github.com/blekinge/percipio)",
+              "This is yet another file identification tool. Unlike most, it has the ability to refine it's file signatures by scanning known good files.",
+              ""
+            ],
+            [
+              "2",
+              "[@alathon](https://github.com/alathon)/[**mailman**](https://github.com/alathon/mailman)",
+              "Mailman",
+              ""
+            ],
+            [
+              "2",
+              "[@helipilot50](https://github.com/helipilot50)/[**aerospike-top-10-agg…**](https://github.com/helipilot50/aerospike-top-10-aggregation)",
+              "Finding the top 10 with an Aerospike aggregation",
+              ""
+            ],
+            [
+              "2",
+              "[@superrob](https://github.com/superrob)/[**Super-Diamond-Mind-B…**](https://github.com/superrob/Super-Diamond-Mind-Bot)",
+              "Open source robot til Komogvind.dk's Super diamond mind.",
+              ""
+            ],
+            [
+              "2",
+              "[@GirafiStudios](https://github.com/GirafiStudios)/[**Culinary-Cultivation**](https://github.com/GirafiStudios/Culinary-Cultivation)",
+              "Culinary Cultivation",
+              ""
+            ],
+            [
+              "2",
+              "[@Sheeo](https://github.com/Sheeo)/[**dProg2**](https://github.com/Sheeo/dProg2)",
+              "Coursework for the Programming 2 course at cs.au 2010.",
+              ""
+            ],
+            [
+              "2",
+              "[@casperin](https://github.com/casperin)/[**Hello_java**](https://github.com/casperin/Hello_java)",
+              "Me learning Java",
+              ""
+            ],
+            [
+              "2",
+              "[@chrisvest](https://github.com/chrisvest)/[**stormpot-benchmark**](https://github.com/chrisvest/stormpot-benchmark)",
+              "The benchmark program for my Stormpot Java object pool.",
+              ""
+            ],
+            [
+              "2",
+              "[@chrisvest](https://github.com/chrisvest)/[**stormpot-jdbc**](https://github.com/chrisvest/stormpot-jdbc)",
+              "A fast JDBC connection pool, based on Stormpot: http://chrisvest.github.io/stormpot/",
+              ""
+            ],
+            [
+              "2",
+              "[@MizzleDK](https://github.com/MizzleDK)/[**traktr-old**](https://github.com/MizzleDK/traktr-old)",
+              "Abandoned project - was supposed to be a simple Trakt client",
+              ""
             ]
           ]
         }
