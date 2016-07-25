@@ -57,7 +57,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -3758,6 +3759,45 @@
               "[@SimonLarsen](https://github.com/SimonLarsen)/[**4hrJamChoplifter**](https://github.com/SimonLarsen/4hrJamChoplifter)",
               "",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "13",
+              "[@casperkaae](https://github.com/casperkaae)/[**MATLAB**](https://github.com/casperkaae/MATLAB)",
+              "Misc matlab scripts",
+              ""
+            ],
+            [
+              "3",
+              "[@ulrikls](https://github.com/ulrikls)/[**dicomrt2matlab**](https://github.com/ulrikls/dicomrt2matlab)",
+              "Import DICOM-RT structures to Matlab",
+              ""
+            ],
+            [
+              "2",
+              "[@cortrium](https://github.com/cortrium)/[**CortriumC3_matlab**](https://github.com/cortrium/CortriumC3_matlab)",
+              "MATLAB scripts to load and process data from Cortrium C3 medical device",
+              "[:arrow_upper_right:](http://www.cortrium.com)"
+            ],
+            [
+              "2",
+              "[@ulrikls](https://github.com/ulrikls)/[**niak**](https://github.com/ulrikls/niak)",
+              "Neuroimaging Analysis Kit for Matlab and Octave",
+              "[:arrow_upper_right:](http://code.google.com/p/niak/)"
             ]
           ]
         }
