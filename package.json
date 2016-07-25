@@ -67,7 +67,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[TeX](#tex)"
+          "[TeX](#tex)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -6155,6 +6156,27 @@
               "2",
               "[@mikkelam](https://github.com/mikkelam)/[**D502e13**](https://github.com/mikkelam/D502e13)",
               "Datalogi 5. semester efteråret 2013",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@ipoddubny](https://github.com/ipoddubny)/[**asterisk-vim**](https://github.com/ipoddubny/asterisk-vim)",
+              "Vim syntax highlighting for Asterisk configuration files",
               ""
             ]
           ]
