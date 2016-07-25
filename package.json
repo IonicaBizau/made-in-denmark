@@ -60,7 +60,8 @@
           "[Lua](#lua)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -4142,6 +4143,759 @@
               "[@kaare](https://github.com/kaare)/[**ReportWriter**](https://github.com/kaare/ReportWriter)",
               "Generic ReportWriter in Moose Perl.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "213",
+              "[@jokkedk](https://github.com/jokkedk)/[**ZFDebug**](https://github.com/jokkedk/ZFDebug)",
+              "Debug toolbar for Zend Framework",
+              ""
+            ],
+            [
+              "169",
+              "[@pluspeople](https://github.com/pluspeople)/[**pesaPi**](https://github.com/pluspeople/pesaPi)",
+              "PesaPI is an API for mobile money systems across Africa. Using PesaPI you can save considerable time and effort when integrating mobile money systems into your application, making it easy for your application to detect when a payment has been received. Full details on http://www.pesapi.com",
+              ""
+            ],
+            [
+              "127",
+              "[@lsolesen](https://github.com/lsolesen)/[**pel**](https://github.com/lsolesen/pel)",
+              "PHP Exif Library. A library for reading and writing Exif headers in JPEG and TIFF images using PHP",
+              ""
+            ],
+            [
+              "96",
+              "[@troelskn](https://github.com/troelskn)/[**konstrukt**](https://github.com/troelskn/konstrukt)",
+              "A HTTP-friendly framework of controllers for PHP5. ",
+              "[:arrow_upper_right:](http://konstrukt.dk/)"
+            ],
+            [
+              "55",
+              "[@lorenzo](https://github.com/lorenzo)/[**MongoCake**](https://github.com/lorenzo/MongoCake)",
+              "CakePHP 2.0 plugin to bridge with Doctrine MongoDB ODM in order to use models as objects persisted by Doctrine. This changes the original CakePHP feature of returning arrays of results, and instead returns objects wich are cleaner to manage and extend.",
+              ""
+            ],
+            [
+              "50",
+              "[@troelskn](https://github.com/troelskn)/[**php-tracer-weaver**](https://github.com/troelskn/php-tracer-weaver)",
+              "A combined runtime/static code-analysis tool, that can trace parameter types",
+              ""
+            ],
+            [
+              "44",
+              "[@esbenp](https://github.com/esbenp)/[**oauth2-server-lumen**](https://github.com/esbenp/oauth2-server-lumen)",
+              "A lumen bridge for lucadegasperi/oauth2-server-laravel",
+              ""
+            ],
+            [
+              "42",
+              "[@troelskn](https://github.com/troelskn)/[**pdoext**](https://github.com/troelskn/pdoext)",
+              "Simple, yet powerful, ORM for PHP, based on PDO",
+              ""
+            ],
+            [
+              "42",
+              "[@esbenp](https://github.com/esbenp)/[**lumen-api-oauth**](https://github.com/esbenp/lumen-api-oauth)",
+              "The code for a blog post I wrote about creating web apps using a Lumen API that is authenticated by OAuth2",
+              "[:arrow_upper_right:](http://esbenp.github.io/2015/05/26/lumen-web-api-oauth-2-authentication/)"
+            ],
+            [
+              "40",
+              "[@troelskn](https://github.com/troelskn)/[**bucket**](https://github.com/troelskn/bucket)",
+              "Basic di-container for php.",
+              ""
+            ],
+            [
+              "38",
+              "[@lorenzo](https://github.com/lorenzo)/[**cakephp3-examples**](https://github.com/lorenzo/cakephp3-examples)",
+              "A collection of examples for CakePHP 3",
+              ""
+            ],
+            [
+              "36",
+              "[@Danielss89](https://github.com/Danielss89)/[**ZfcUserAdmin**](https://github.com/Danielss89/ZfcUserAdmin)",
+              "An admin interface for ZfcUser",
+              ""
+            ],
+            [
+              "32",
+              "[@lorenzo](https://github.com/lorenzo)/[**audit-stash**](https://github.com/lorenzo/audit-stash)",
+              "Flexible and rock solid audit log tracking for CakePHP 3",
+              ""
+            ],
+            [
+              "32",
+              "[@kasperg](https://github.com/kasperg)/[**drupal-jenkins-demo**](https://github.com/kasperg/drupal-jenkins-demo)",
+              "Drupal site to demonstrate Jenkins code inspection",
+              ""
+            ],
+            [
+              "29",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**unbox**](https://github.com/mindplay-dk/unbox)",
+              "Fast, simple, easy-to-use DI container",
+              ""
+            ],
+            [
+              "27",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**walkway**](https://github.com/mindplay-dk/walkway)",
+              "Elegant, modular router for PHP",
+              ""
+            ],
+            [
+              "26",
+              "[@lorenzo](https://github.com/lorenzo)/[**cakephp-fixturize**](https://github.com/lorenzo/cakephp-fixturize)",
+              "CakePHP custom Fixture classes for those having problems maintaining PHP based fixtures.",
+              ""
+            ],
+            [
+              "26",
+              "[@lorenzo](https://github.com/lorenzo)/[**HipHop**](https://github.com/lorenzo/HipHop)",
+              "CakePHP plugin to help you get you application running on the Facebook's HipHop compiler and interpreter",
+              ""
+            ],
+            [
+              "25",
+              "[@lorenzo](https://github.com/lorenzo)/[**cakephp-email-queue**](https://github.com/lorenzo/cakephp-email-queue)",
+              "A email sending queue for CakePHP",
+              ""
+            ],
+            [
+              "24",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**TYPO3.Fluid**](https://github.com/NamelessCoder/TYPO3.Fluid)",
+              "WARNING WARNING WARNING! Replaced by https://github.com/TYPO3Fluid/Fluid",
+              ""
+            ],
+            [
+              "24",
+              "[@lorenzo](https://github.com/lorenzo)/[**piping-bag**](https://github.com/lorenzo/piping-bag)",
+              "CakePHP 3 plugin to include a Dependency Injector Container based on Ray.Di",
+              ""
+            ],
+            [
+              "24",
+              "[@lsolesen](https://github.com/lsolesen)/[**php-template**](https://github.com/lsolesen/php-template)",
+              "Lightweight Template engine with the same interface as Savant3 and Smarty",
+              ""
+            ],
+            [
+              "21",
+              "[@petersuhm](https://github.com/petersuhm)/[**commentable**](https://github.com/petersuhm/commentable)",
+              "Comments model for Laravel 4",
+              ""
+            ],
+            [
+              "17",
+              "[@lorenzo](https://github.com/lorenzo)/[**workflow**](https://github.com/lorenzo/workflow)",
+              "Workflow engine for cakephp",
+              ""
+            ],
+            [
+              "17",
+              "[@lorenzo](https://github.com/lorenzo)/[**row-locker**](https://github.com/lorenzo/row-locker)",
+              "CakePHP ORM plugin for  creating exclusive row locks",
+              ""
+            ],
+            [
+              "16",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**jsonfreeze**](https://github.com/mindplay-dk/jsonfreeze)",
+              "Serialize and unserialize a PHP object-graph to/from a JSON string representation",
+              ""
+            ],
+            [
+              "14",
+              "[@lorenzo](https://github.com/lorenzo)/[**cakephp3-advanced-ex…**](https://github.com/lorenzo/cakephp3-advanced-examples)",
+              "Example application for the \"Agile database access with CakePHP 3\"",
+              ""
+            ],
+            [
+              "13",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**uncache**](https://github.com/NamelessCoder/uncache)",
+              "Obsolete - discontinued",
+              ""
+            ],
+            [
+              "13",
+              "[@nikolajlovenhardt](https://github.com/nikolajlovenhardt)/[**laravel-user-notific…**](https://github.com/nikolajlovenhardt/laravel-user-notifications)",
+              "User notifications for Laravel 5+",
+              ""
+            ],
+            [
+              "13",
+              "[@jippi](https://github.com/jippi)/[**cakephp-newrelic**](https://github.com/jippi/cakephp-newrelic)",
+              "cakephp <3 newrelic",
+              ""
+            ],
+            [
+              "13",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**middleman**](https://github.com/mindplay-dk/middleman)",
+              "Dead simple PSR-7 middleware dispatcher",
+              ""
+            ],
+            [
+              "12",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**fromage**](https://github.com/NamelessCoder/fromage)",
+              "Obsolete - discontinued",
+              ""
+            ],
+            [
+              "12",
+              "[@lorenzo](https://github.com/lorenzo)/[**cakephp-gearman**](https://github.com/lorenzo/cakephp-gearman)",
+              "Gearman utilities for CakePHP",
+              ""
+            ],
+            [
+              "11",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**composer-locator**](https://github.com/mindplay-dk/composer-locator)",
+              "Locate the installation path for any installed Composer package",
+              ""
+            ],
+            [
+              "11",
+              "[@lorenzo](https://github.com/lorenzo)/[**cakephp3-bookmarkr**](https://github.com/lorenzo/cakephp3-bookmarkr)",
+              "A Sample CakePHP 3 application built with the Crud plugin",
+              ""
+            ],
+            [
+              "11",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**view**](https://github.com/NamelessCoder/view)",
+              "Obsolete - discontinued",
+              ""
+            ],
+            [
+              "11",
+              "[@lorenzo](https://github.com/lorenzo)/[**cakephp-sqs**](https://github.com/lorenzo/cakephp-sqs)",
+              "CakePHP wrapper and utility methods for AWS Simple Queue System",
+              ""
+            ],
+            [
+              "11",
+              "[@lorenzo](https://github.com/lorenzo)/[**Foundation**](https://github.com/lorenzo/Foundation)",
+              "CakePHP helpers to output Zurb Foundation friendly html",
+              ""
+            ],
+            [
+              "11",
+              "[@lorenzo](https://github.com/lorenzo)/[**cakephp-logstash**](https://github.com/lorenzo/cakephp-logstash)",
+              "CakePHP log stream adapter for logstash",
+              ""
+            ],
+            [
+              "10",
+              "[@nikolajlovenhardt](https://github.com/nikolajlovenhardt)/[**laravel-google-ads**](https://github.com/nikolajlovenhardt/laravel-google-ads)",
+              "Google Ads API for Laravel",
+              ""
+            ],
+            [
+              "10",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**gizzle**](https://github.com/NamelessCoder/gizzle)",
+              "A tiny GitHub Webhook Listener written in PHP which can be easily extended with plugins",
+              ""
+            ],
+            [
+              "8",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**rpc**](https://github.com/NamelessCoder/rpc)",
+              "TYPO3 RPC (Remote Procedure Call)",
+              ""
+            ],
+            [
+              "8",
+              "[@troelskn](https://github.com/troelskn)/[**csslib**](https://github.com/troelskn/csslib)",
+              "CSS parsing and CSS selectors for PHP",
+              ""
+            ],
+            [
+              "7",
+              "[@anini](https://github.com/anini)/[**ArCaptcha**](https://github.com/anini/ArCaptcha)",
+              "ArCaptcha - Arabic CAPTCHA | عركابتشا - كابتشا عربية",
+              "[:arrow_upper_right:](arcaptcha.anini.me)"
+            ],
+            [
+              "7",
+              "[@troelskn](https://github.com/troelskn)/[**webwork**](https://github.com/troelskn/webwork)",
+              "PHP microframework",
+              ""
+            ],
+            [
+              "7",
+              "[@troelskn](https://github.com/troelskn)/[**krudt**](https://github.com/troelskn/krudt)",
+              "databasedriven web framework based on konstrukt",
+              ""
+            ],
+            [
+              "7",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**boxy**](https://github.com/mindplay-dk/boxy)",
+              "Open, simple, type-hinted dependency injection container.",
+              ""
+            ],
+            [
+              "7",
+              "[@lorenzo](https://github.com/lorenzo)/[**osmosis**](https://github.com/lorenzo/osmosis)",
+              "Modular Learning Management System based on the concept of connectivism and web 2.0",
+              ""
+            ],
+            [
+              "7",
+              "[@lsolesen](https://github.com/lsolesen)/[**apps-deploy**](https://github.com/lsolesen/apps-deploy)",
+              "Drupal 7 apps server",
+              ""
+            ],
+            [
+              "7",
+              "[@lorenzo](https://github.com/lorenzo)/[**cakefest-workshop-20…**](https://github.com/lorenzo/cakefest-workshop-2011)",
+              "Cakefest workshop 2011",
+              ""
+            ],
+            [
+              "6",
+              "[@petersuhm](https://github.com/petersuhm)/[**laravel-bdd**](https://github.com/petersuhm/laravel-bdd)",
+              "Example Laravel app, showcasing common BDD concepts.",
+              ""
+            ],
+            [
+              "6",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**tweetnews**](https://github.com/NamelessCoder/tweetnews)",
+              "TYPO3 extension TweetNews: Create Tweets from EXT:news newsitems",
+              ""
+            ],
+            [
+              "6",
+              "[@kasperg](https://github.com/kasperg)/[**phing-drush-task**](https://github.com/kasperg/phing-drush-task)",
+              "Fork of Phing Drush Task project on drupal.org",
+              "[:arrow_upper_right:](http://drupal.org/project/phingdrushtask)"
+            ],
+            [
+              "6",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**fluidwidget**](https://github.com/NamelessCoder/fluidwidget)",
+              "Obsolete - discontinued",
+              ""
+            ],
+            [
+              "5",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**jsondoc**](https://github.com/mindplay-dk/jsondoc)",
+              "Simple, file-based object/document-database using JSON",
+              ""
+            ],
+            [
+              "5",
+              "[@kasperg](https://github.com/kasperg)/[**phing-github**](https://github.com/kasperg/phing-github)",
+              "Phing tasks for working with GitHub",
+              ""
+            ],
+            [
+              "5",
+              "[@pluspeople](https://github.com/pluspeople)/[**JumuikaSMS**](https://github.com/pluspeople/JumuikaSMS)",
+              "A simple PHP class for using Jumuika's SMS gateway",
+              ""
+            ],
+            [
+              "5",
+              "[@petersuhm](https://github.com/petersuhm)/[**adventure**](https://github.com/petersuhm/adventure)",
+              "A WordPress plugin framework built on top of Composer packages.",
+              ""
+            ],
+            [
+              "5",
+              "[@jacmoe](https://github.com/jacmoe)/[**bugitor**](https://github.com/jacmoe/bugitor)",
+              "A Yii powered issue tracker",
+              "[:arrow_upper_right:](https://bugitor.jacmoe.dk/)"
+            ],
+            [
+              "5",
+              "[@jacmoe](https://github.com/jacmoe)/[**yii2-app-advanced-de…**](https://github.com/jacmoe/yii2-app-advanced-deployer)",
+              "Yii 2 Advanced Application Template with Deployer.php support ",
+              ""
+            ],
+            [
+              "4",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**petitparserphp**](https://github.com/mindplay-dk/petitparserphp)",
+              "Lukas Renggli's excellent PetitParser ported to PHP",
+              ""
+            ],
+            [
+              "4",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**stockpile**](https://github.com/mindplay-dk/stockpile)",
+              "Type-checked, stand-alone service/configuration-container for PHP (5.3+)",
+              ""
+            ],
+            [
+              "4",
+              "[@kasperg](https://github.com/kasperg)/[**symfony-propel-slope…**](https://github.com/kasperg/symfony-propel-slope-one-recommendations-plugin)",
+              "Collaborative filtering for symfony based on Slope One algorithmns",
+              "[:arrow_upper_right:](http://www.symfony-project.org/plugins/sfPropelSlopeOneRecommendationsPlugin)"
+            ],
+            [
+              "4",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**benchpress**](https://github.com/mindplay-dk/benchpress)",
+              "Simple benchmark suite for PHP 5.3+",
+              ""
+            ],
+            [
+              "4",
+              "[@petersuhm](https://github.com/petersuhm)/[**laravel-deployment**](https://github.com/petersuhm/laravel-deployment)",
+              "This is just me playing around with Laravel deployment... Nothing fancy here, yet!",
+              ""
+            ],
+            [
+              "4",
+              "[@petersuhm](https://github.com/petersuhm)/[**laravel-bdd-helpers**](https://github.com/petersuhm/laravel-bdd-helpers)",
+              "Stuff that helps you do BDD in a Laravel context.",
+              ""
+            ],
+            [
+              "4",
+              "[@anini](https://github.com/anini)/[**ammanhs**](https://github.com/anini/ammanhs)",
+              "Amman Hackerspace",
+              "[:arrow_upper_right:](ammanhs.com)"
+            ],
+            [
+              "4",
+              "[@Herlevsen](https://github.com/Herlevsen)/[**laravel-route-bookma…**](https://github.com/Herlevsen/laravel-route-bookmarker)",
+              "Generate an html file that will help you bookmark all your laravel 5 routes",
+              ""
+            ],
+            [
+              "4",
+              "[@lsolesen](https://github.com/lsolesen)/[**konstrukt-example-ap…**](https://github.com/lsolesen/konstrukt-example-app)",
+              "Example applications for the konstrukt framework.",
+              "[:arrow_upper_right:](http://konstrukt.dk/)"
+            ],
+            [
+              "4",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**dialog**](https://github.com/NamelessCoder/dialog)",
+              "TYPO3 extension Dialog: Discussion Components",
+              "[:arrow_upper_right:](http://extensions.fedext.net/dialog/)"
+            ],
+            [
+              "4",
+              "[@jacmoe](https://github.com/jacmoe)/[**yii2-app-basic-deplo…**](https://github.com/jacmoe/yii2-app-basic-deployer)",
+              "Yii 2 Basic Application Template with Deployer.php support",
+              ""
+            ],
+            [
+              "4",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**fluidspec**](https://github.com/NamelessCoder/fluidspec)",
+              "Fluid CMS reintegration specifications as TYPO3 CMS extension",
+              ""
+            ],
+            [
+              "4",
+              "[@esbenp](https://github.com/esbenp)/[**larapi**](https://github.com/esbenp/larapi)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**typo3-repository-giz…**](https://github.com/NamelessCoder/typo3-repository-gizzle)",
+              "TYPO3 GitHub Repository Releaser",
+              ""
+            ],
+            [
+              "4",
+              "[@jayj](https://github.com/jayj)/[**Japibas**](https://github.com/jayj/Japibas)",
+              "New version of my WordPress theme, Japibas",
+              "[:arrow_upper_right:](http://wpthemes.jayj.dk/japibas/)"
+            ],
+            [
+              "4",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**market**](https://github.com/mindplay-dk/market)",
+              "WORK IN PROGRESS: a unified test-suite for PHP Markdown parser implementations",
+              ""
+            ],
+            [
+              "3",
+              "[@lsolesen](https://github.com/lsolesen)/[**structures-ical**](https://github.com/lsolesen/structures-ical)",
+              "Parses Ical files",
+              ""
+            ],
+            [
+              "3",
+              "[@petersuhm](https://github.com/petersuhm)/[**configure**](https://github.com/petersuhm/configure)",
+              "A configuration repository for PHP.",
+              ""
+            ],
+            [
+              "3",
+              "[@jacmoe](https://github.com/jacmoe)/[**yii2-tale-jade**](https://github.com/jacmoe/yii2-tale-jade)",
+              "A Tale Jade for PHP integration for the Yii2 framework",
+              ""
+            ],
+            [
+              "3",
+              "[@lsolesen](https://github.com/lsolesen)/[**running-calculations**](https://github.com/lsolesen/running-calculations)",
+              "Tools for calculating stuff regarding health",
+              "[:arrow_upper_right:](http://motionsplan.dk)"
+            ],
+            [
+              "3",
+              "[@lsolesen](https://github.com/lsolesen)/[**math-geographicpoint**](https://github.com/lsolesen/math-geographicpoint)",
+              "Class used to convert longitude and latitude coordinates between Universal Transverse Mercator (UTM) or Lambert Conformal Conic map projections. It is useful to plot latitude and longitude values of points on a map image.",
+              ""
+            ],
+            [
+              "3",
+              "[@jippi](https://github.com/jippi)/[**vault-php-sdk**](https://github.com/jippi/vault-php-sdk)",
+              "Vault PHP SDK, inspired by sensio consul sdk",
+              ""
+            ],
+            [
+              "3",
+              "[@lorenzo](https://github.com/lorenzo)/[**cakephp-gridhook**](https://github.com/lorenzo/cakephp-gridhook)",
+              "CakePHP webhook event handler for SendGrid",
+              ""
+            ],
+            [
+              "3",
+              "[@lorenzo](https://github.com/lorenzo)/[**cake-orm-example**](https://github.com/lorenzo/cake-orm-example)",
+              "A Simple repo showcasing how to bootstrap the CakePHP 3 ORM",
+              ""
+            ],
+            [
+              "3",
+              "[@lorenzo](https://github.com/lorenzo)/[**cake-orm-standalone-…**](https://github.com/lorenzo/cake-orm-standalone-example)",
+              "A minimal example for using the Cake 3 ORM as standalone",
+              ""
+            ],
+            [
+              "3",
+              "[@esbenp](https://github.com/esbenp)/[**onion**](https://github.com/esbenp/onion)",
+              "A before/after middleware implementation",
+              "[:arrow_upper_right:](http://esbenp.github.io/2015/07/31/implementing-before-after-middleware/)"
+            ],
+            [
+              "3",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**TemplateStubs**](https://github.com/mindplay-dk/TemplateStubs)",
+              "ProcessWire plug-in: generates stub classes, providing IDE-support for Templates",
+              ""
+            ],
+            [
+              "3",
+              "[@wulff](https://github.com/wulff)/[**drupal-proximity**](https://github.com/wulff/drupal-proximity)",
+              "Demos of various ways to do proximity searching with Drupal",
+              ""
+            ],
+            [
+              "3",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**TemplateDecorator**](https://github.com/mindplay-dk/TemplateDecorator)",
+              "TemplateDecorator module for ProcessWire",
+              ""
+            ],
+            [
+              "3",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**google_auth**](https://github.com/NamelessCoder/google_auth)",
+              "TYPO3 extension GoogleAuth: Google OpenAuth v2 authentication service",
+              "[:arrow_upper_right:](http://extensions.fedext.net/extension-google-auth/)"
+            ],
+            [
+              "3",
+              "[@troelskn](https://github.com/troelskn)/[**fable**](https://github.com/troelskn/fable)",
+              "A php port of cucumber testing tool",
+              ""
+            ],
+            [
+              "3",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**sysutils**](https://github.com/NamelessCoder/sysutils)",
+              "TYPO3 extension Sysutils: System Utilities for maintenance, backup, reporting",
+              "[:arrow_upper_right:](http://extensions.fedext.net/system-utilities/)"
+            ],
+            [
+              "3",
+              "[@troelskn](https://github.com/troelskn)/[**hbind**](https://github.com/troelskn/hbind)",
+              "Hbind -- sprintf for HTML",
+              "[:arrow_upper_right:](http://github.com/troelskn/hbind)"
+            ],
+            [
+              "3",
+              "[@lsolesen](https://github.com/lsolesen)/[**moodle-sms**](https://github.com/lsolesen/moodle-sms)",
+              "SMS block to be used with moodle",
+              ""
+            ],
+            [
+              "3",
+              "[@lsolesen](https://github.com/lsolesen)/[**mdb2-debug-explainqu…**](https://github.com/lsolesen/mdb2-debug-explainqueries)",
+              "A custom error handler for MDB2. Collects all queries being executed in a script and runs explain on them.",
+              ""
+            ],
+            [
+              "2",
+              "[@troelskn](https://github.com/troelskn)/[**fejlvarp**](https://github.com/troelskn/fejlvarp)",
+              "Incident logger a la Exceptional, for your PHP applications",
+              ""
+            ],
+            [
+              "2",
+              "[@jacmoe](https://github.com/jacmoe)/[**yii2-app-basic-gulp-…**](https://github.com/jacmoe/yii2-app-basic-gulp-sass)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@lsolesen](https://github.com/lsolesen)/[**sitemap-xml**](https://github.com/lsolesen/sitemap-xml)",
+              "Experimental class to create xml sitemaps",
+              ""
+            ],
+            [
+              "2",
+              "[@lsolesen](https://github.com/lsolesen)/[**wire**](https://github.com/lsolesen/wire)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mauran](https://github.com/mauran)/[**CPR-PHP**](https://github.com/mauran/CPR-PHP)",
+              "Godt med CPR",
+              ""
+            ],
+            [
+              "2",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**middlemark**](https://github.com/mindplay-dk/middlemark)",
+              "PSR-7 Markdown middleware thang",
+              ""
+            ],
+            [
+              "2",
+              "[@jippi](https://github.com/jippi)/[**php-hipchat-connect**](https://github.com/jippi/php-hipchat-connect)",
+              "HipChat connect (v2) api helpers",
+              ""
+            ],
+            [
+              "2",
+              "[@lsolesen](https://github.com/lsolesen)/[**services-geocoding**](https://github.com/lsolesen/services-geocoding)",
+              "Geocoding is the process of converting addresses into geographic coodinates  (latitude, longitude)",
+              ""
+            ],
+            [
+              "2",
+              "[@anini](https://github.com/anini)/[**Takhreej**](https://github.com/anini/Takhreej)",
+              "Simple PHP Open Source Web Addresses (URLs) Manager",
+              ""
+            ],
+            [
+              "2",
+              "[@lsolesen](https://github.com/lsolesen)/[**Ilib_Services_CPSMS**](https://github.com/lsolesen/Ilib_Services_CPSMS)",
+              "PHP library to talk to CPSMS-service.",
+              ""
+            ],
+            [
+              "2",
+              "[@davidreuss](https://github.com/davidreuss)/[**webphp**](https://github.com/davidreuss/webphp)",
+              "the no framework framework for building php webapps",
+              ""
+            ],
+            [
+              "2",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**funit**](https://github.com/mindplay-dk/funit)",
+              "Lightweight unit-testing framework",
+              ""
+            ],
+            [
+              "2",
+              "[@MrMEEE](https://github.com/MrMEEE)/[**dommerbord**](https://github.com/MrMEEE/dommerbord)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**session**](https://github.com/mindplay-dk/session)",
+              "Type-hinted session container for PHP",
+              ""
+            ],
+            [
+              "2",
+              "[@lsolesen](https://github.com/lsolesen)/[**ghpages-manager**](https://github.com/lsolesen/ghpages-manager)",
+              "PHP manager for Github Pages - proof of concept - use with caution",
+              ""
+            ],
+            [
+              "2",
+              "[@mindplay-dk](https://github.com/mindplay-dk)/[**pager**](https://github.com/mindplay-dk/pager)",
+              "Generates HTML pager buttons/links/whatever",
+              ""
+            ],
+            [
+              "2",
+              "[@lsolesen](https://github.com/lsolesen)/[**billy-php-sdk**](https://github.com/lsolesen/billy-php-sdk)",
+              "PHP SDK for BillysBilling v2.",
+              ""
+            ],
+            [
+              "2",
+              "[@esbenp](https://github.com/esbenp)/[**distributed-laravel**](https://github.com/esbenp/distributed-laravel)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**TYPO3.Fluid.SchemaGe…**](https://github.com/NamelessCoder/TYPO3.Fluid.SchemaGenerator)",
+              "Creates XSD schemas for packages containing Fluid ViewHelpers",
+              ""
+            ],
+            [
+              "2",
+              "[@lsolesen](https://github.com/lsolesen)/[**accounting**](https://github.com/lsolesen/accounting)",
+              "Experimental work on how accounting classes can be organized",
+              ""
+            ],
+            [
+              "2",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**notify**](https://github.com/NamelessCoder/notify)",
+              "TYPO3 extension Notify: Subscriptions and Notifications",
+              "[:arrow_upper_right:](http://extensions.fedext.net/notify/)"
+            ],
+            [
+              "2",
+              "[@esbenp](https://github.com/esbenp)/[**bruno**](https://github.com/esbenp/bruno)",
+              "A base API controller for Laravel that gives sorting, filtering, eager loading and pagination for your resources",
+              "[:arrow_upper_right:](http://optimus.rocks/)"
+            ],
+            [
+              "2",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**TYPO3.Fluid.Lint**](https://github.com/NamelessCoder/TYPO3.Fluid.Lint)",
+              "Lint utility for TYPO3.Fluid templates",
+              ""
+            ],
+            [
+              "2",
+              "[@Ahrengot](https://github.com/Ahrengot)/[**TweenMax-examples**](https://github.com/Ahrengot/TweenMax-examples)",
+              "a couple of examples using the Greensock tweening framework",
+              ""
+            ],
+            [
+              "2",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**gizzle-typo3-plugins**](https://github.com/NamelessCoder/gizzle-typo3-plugins)",
+              "Gizzle plugins for performing various tasks on repositories which contain TYPO3 extensions",
+              ""
+            ],
+            [
+              "2",
+              "[@mauran](https://github.com/mauran)/[**Digitalocean-PHP-cla…**](https://github.com/mauran/Digitalocean-PHP-class)",
+              "PHP class for the Digital Ocean API",
+              ""
+            ],
+            [
+              "2",
+              "[@NamelessCoder](https://github.com/NamelessCoder)/[**typo3-repository-cli…**](https://github.com/NamelessCoder/typo3-repository-client)",
+              "TYPO3 Extension Repository (TER) client library and CLI commands",
+              ""
+            ],
+            [
+              "2",
+              "[@esbenp](https://github.com/esbenp)/[**architect**](https://github.com/esbenp/architect)",
+              "Dynamically create API resource structures for related resources",
+              "[:arrow_upper_right:](http://optimus.rocks/)"
             ]
           ]
         }
