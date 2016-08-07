@@ -40,6 +40,7 @@
   },
   "homepage": "https://github.com/IonicaBizau/made-in-denmark#readme",
   "blah": {
+    "title": "Made in Denmark",
     "installation": [
       {
         "h2": "Contents"
