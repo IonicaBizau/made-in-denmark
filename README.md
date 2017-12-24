@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -34,6 +35,7 @@
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3880 | [@luis-almeida](https://github.com/luis-almeida)/[**unveil**](https://github.com/luis-almeida/unveil) | A very lightweight jQuery plugin to lazy load images |
@@ -351,7 +353,9 @@
 2 | [@saebekassebil](https://github.com/saebekassebil)/[**mingler**](https://github.com/saebekassebil/mingler) | A simplistic Javascript concatenation tool |
 2 | [@saebekassebil](https://github.com/saebekassebil)/[**notecoord**](https://github.com/saebekassebil/notecoord) | Describes the relative intervals between two notes |
 2 | [@raix](https://github.com/raix)/[**Meteor-EventState**](https://github.com/raix/Meteor-EventState) | Evented state | [:arrow_upper_right:](https://atmospherejs.com/raix/eventstate)
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2617 | [@SimonVT](https://github.com/SimonVT)/[**android-menudrawer**](https://github.com/SimonVT/android-menudrawer) | *DEPRECATED* A slide-out menu implementation, which allows users to navigate between views in your app. | [:arrow_upper_right:](http://simonvt.github.com/android-menudrawer/)
@@ -398,7 +402,9 @@
 2 | [@chrisvest](https://github.com/chrisvest)/[**stormpot-benchmark**](https://github.com/chrisvest/stormpot-benchmark) | The benchmark program for my Stormpot Java object pool. |
 2 | [@chrisvest](https://github.com/chrisvest)/[**stormpot-jdbc**](https://github.com/chrisvest/stormpot-jdbc) | A fast JDBC connection pool, based on Stormpot: http://chrisvest.github.io/stormpot/ |
 2 | [@MizzleDK](https://github.com/MizzleDK)/[**traktr-old**](https://github.com/MizzleDK/traktr-old) | Abandoned project - was supposed to be a simple Trakt client |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 139 | [@ploeh](https://github.com/ploeh)/[**Hyprlinkr**](https://github.com/ploeh/Hyprlinkr) | A URI building helper library for ASP.NET Web API |
@@ -473,12 +479,16 @@
 2 | [@mookid8000](https://github.com/mookid8000)/[**Basis**](https://github.com/mookid8000/Basis) | Event sourcing basis |
 2 | [@LindaLawton](https://github.com/LindaLawton)/[**GoogleAuthSimple**](https://github.com/LindaLawton/GoogleAuthSimple) | Simple connection to Google using Oauth2 |
 2 | [@tt](https://github.com/tt)/[**NDjangoContrib**](https://github.com/tt/NDjangoContrib) |  |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 26 | [@lamotta](https://github.com/lamotta)/[**specialsboard**](https://github.com/lamotta/specialsboard) | Special Boards (Coda) Color Scheme for Sublime Text 2 |
 4 | [@peterbrinck](https://github.com/peterbrinck)/[**cockpit-starter**](https://github.com/peterbrinck/cockpit-starter) | Cockpit Starter - | [:arrow_upper_right:](https://peterbrinck.github.io/cockpit-starter/)
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 76 | [@csete](https://github.com/csete)/[**rtlizer**](https://github.com/csete/rtlizer) | Simple spectrum analyzer | [:arrow_upper_right:](http://www.oz9aec.net/index.php/beaglebone/480-rtlizer)
@@ -524,7 +534,9 @@
 2 | [@esmil](https://github.com/esmil)/[**lem-evdev**](https://github.com/esmil/lem-evdev) | A Linux event device library for the Lua Event Machine |
 2 | [@ahf](https://github.com/ahf)/[**irc**](https://github.com/ahf/irc) | IRC 2.11 Import from CVS |
 2 | [@esmil](https://github.com/esmil)/[**lem-ssl**](https://github.com/esmil/lem-ssl) | Secure socket library for the Lua Event Machine |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 164 | [@simonask](https://github.com/simonask)/[**w**](https://github.com/simonask/w) | A simple C++ web framework based on Libevent. | [:arrow_upper_right:](http://simonask.github.io/w)
@@ -556,7 +568,9 @@
 2 | [@mortennobel](https://github.com/mortennobel)/[**TopologyOptimization**](https://github.com/mortennobel/TopologyOptimization) | A simple Topology Optimization (based on the 99-line Matlab code by Ole Sigmund) |
 2 | [@antialize](https://github.com/antialize)/[**djudge**](https://github.com/antialize/djudge) |  |
 2 | [@mortennobel](https://github.com/mortennobel)/[**PolyPlane**](https://github.com/mortennobel/PolyPlane) | Simple interactive plane visualization using kick |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 40 | [@tonybeltramelli](https://github.com/tonybeltramelli)/[**Air-Kinect-Gesture-L…**](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) | Air Kinect Gesture Library |
@@ -566,7 +580,9 @@
 2 | [@jamalsoueidan](https://github.com/jamalsoueidan)/[**EngineFlexApplicatio…**](https://github.com/jamalsoueidan/EngineFlexApplication) |  |
 2 | [@jamalsoueidan](https://github.com/jamalsoueidan)/[**SmartFoxClient**](https://github.com/jamalsoueidan/SmartFoxClient) | A small framework to make integration with smartfox socket server easier. |
 2 | [@jamalsoueidan](https://github.com/jamalsoueidan)/[**GameServer**](https://github.com/jamalsoueidan/GameServer) | I'm building ruby socket server that can easily communicate with actionsript 3, so I can build flash games easily. |
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 262 | [@LauJensen](https://github.com/LauJensen)/[**clojureql**](https://github.com/LauJensen/clojureql) | ClojureQL is superior SQL integration for Clojure | [:arrow_upper_right:](http://www.bestinclass.dk)
@@ -599,17 +615,23 @@
 2 | [@mjul](https://github.com/mjul)/[**clojure-in-10-mins**](https://github.com/mjul/clojure-in-10-mins) | Clojure in 10 Minutes - presentation and code  |
 2 | [@mjul](https://github.com/mjul)/[**heroku-zipurl**](https://github.com/mjul/heroku-zipurl) | Example Clojure web app for the Heroku cloud |
 2 | [@mjul](https://github.com/mjul)/[**top-10-clojure-ndc-2…**](https://github.com/mjul/top-10-clojure-ndc-2011) | Top Ten Things to Learn from Clojure that will make you a better developer in any language. Presentation and code for my session at NDC 2011. |
+
 ### CoffeeScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8 | [@8pen](https://github.com/8pen)/[**doodle**](https://github.com/8pen/doodle) | The 8pen Doodle | [:arrow_upper_right:](http://www.8pen.com/doodle)
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 52 | [@zozor](https://github.com/zozor)/[**hgui**](https://github.com/zozor/hgui) | gui toolkit for go |
 3 | [@mbanzon](https://github.com/mbanzon)/[**currency**](https://github.com/mbanzon/currency) | A small Go library to convert currencies. |
 3 | [@zozor](https://github.com/zozor)/[**Cecils-Adventure**](https://github.com/zozor/Cecils-Adventure) | A little Game i wrote in Go using SDL library |
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 69 | [@np](https://github.com/np)/[**ling**](https://github.com/np/ling) | LINear LaNGuage: Type Theory and Process Calculi for Distributed and High-precision programming |
@@ -642,7 +664,9 @@
 2 | [@Athas](https://github.com/Athas)/[**icfp2012**](https://github.com/Athas/icfp2012) | "Solution" to the ICFP 2012 contest by people from DIKU.  Seems we're not too good at heuristics. |
 2 | [@oleks](https://github.com/oleks)/[**diku-oopd-2012**](https://github.com/oleks/diku-oopd-2012) |  |
 2 | [@reenberg](https://github.com/reenberg)/[**.xmonad**](https://github.com/reenberg/.xmonad) |  |
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 209 | [@SimonLarsen](https://github.com/SimonLarsen)/[**mrrescue**](https://github.com/SimonLarsen/mrrescue) | Arcade-style fire fighting game | [:arrow_upper_right:](http://tangramgames.dk/games/mrrescue)
@@ -658,14 +682,18 @@
 3 | [@SimonLarsen](https://github.com/SimonLarsen)/[**Energy**](https://github.com/SimonLarsen/Energy) |  |
 3 | [@SimonLarsen](https://github.com/SimonLarsen)/[**island**](https://github.com/SimonLarsen/island) |  |
 3 | [@SimonLarsen](https://github.com/SimonLarsen)/[**4hrJamChoplifter**](https://github.com/SimonLarsen/4hrJamChoplifter) |  |
+
 ### Matlab #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 13 | [@casperkaae](https://github.com/casperkaae)/[**MATLAB**](https://github.com/casperkaae/MATLAB) | Misc matlab scripts |
 3 | [@ulrikls](https://github.com/ulrikls)/[**dicomrt2matlab**](https://github.com/ulrikls/dicomrt2matlab) | Import DICOM-RT structures to Matlab |
 2 | [@cortrium](https://github.com/cortrium)/[**CortriumC3_matlab**](https://github.com/cortrium/CortriumC3_matlab) | MATLAB scripts to load and process data from Cortrium C3 medical device | [:arrow_upper_right:](http://www.cortrium.com)
 2 | [@ulrikls](https://github.com/ulrikls)/[**niak**](https://github.com/ulrikls/niak) | Neuroimaging Analysis Kit for Matlab and Octave | [:arrow_upper_right:](http://code.google.com/p/niak/)
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 370 | [@kasperpihl](https://github.com/kasperpihl)/[**KPTimePicker**](https://github.com/kasperpihl/KPTimePicker) | Simplistic and easy-to-use timerpicker to replace Apple's |
@@ -705,7 +733,9 @@
 2 | [@jonathanbp](https://github.com/jonathanbp)/[**mapifs**](https://github.com/jonathanbp/mapifs) | fs for an internal rest service |
 2 | [@Fogh](https://github.com/Fogh)/[**iCloudExample**](https://github.com/Fogh/iCloudExample) | iOS Universal app - Shopping list. Simple example of Core Data iCloud synchronization between devices. |
 2 | [@neoneye](https://github.com/neoneye)/[**cocoaheads-2013-game…**](https://github.com/neoneye/cocoaheads-2013-game0) | cocoaheads game in an evening |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 37 | [@MadsAlbertsen](https://github.com/MadsAlbertsen)/[**multi-metagenome**](https://github.com/MadsAlbertsen/multi-metagenome) |  |
@@ -723,7 +753,9 @@
 2 | [@warming](https://github.com/warming)/[**dbix-lazymethod**](https://github.com/warming/dbix-lazymethod) | Perl DBIx::LazyMethod CPAN module |
 2 | [@MadsAlbertsen](https://github.com/MadsAlbertsen)/[**16S-analysis**](https://github.com/MadsAlbertsen/16S-analysis) |  |
 2 | [@kaare](https://github.com/kaare)/[**ReportWriter**](https://github.com/kaare/ReportWriter) | Generic ReportWriter in Moose Perl. |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 213 | [@jokkedk](https://github.com/jokkedk)/[**ZFDebug**](https://github.com/jokkedk/ZFDebug) | Debug toolbar for Zend Framework |
@@ -849,7 +881,9 @@
 2 | [@mauran](https://github.com/mauran)/[**Digitalocean-PHP-cla…**](https://github.com/mauran/Digitalocean-PHP-class) | PHP class for the Digital Ocean API |
 2 | [@NamelessCoder](https://github.com/NamelessCoder)/[**typo3-repository-cli…**](https://github.com/NamelessCoder/typo3-repository-client) | TYPO3 Extension Repository (TER) client library and CLI commands |
 2 | [@esbenp](https://github.com/esbenp)/[**architect**](https://github.com/esbenp/architect) | Dynamically create API resource structures for related resources | [:arrow_upper_right:](http://optimus.rocks/)
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 924 | [@andersbll](https://github.com/andersbll)/[**neural_artistic_styl…**](https://github.com/andersbll/neural_artistic_style) | Neural Artistic Style in Python |
@@ -924,7 +958,9 @@
 2 | [@simonbs](https://github.com/simonbs)/[**dldr**](https://github.com/simonbs/dldr) | Download programs from DR TV. |
 2 | [@portify](https://github.com/portify)/[**io_scene_dts**](https://github.com/portify/io_scene_dts) | A modern Blender plugin for working with DTS/DSQ assets. Includes an importer and an exporter. |
 2 | [@KristianOellegaard](https://github.com/KristianOellegaard)/[**dokku-controller-age…**](https://github.com/KristianOellegaard/dokku-controller-agent) |  |
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 393 | [@smbache](https://github.com/smbache)/[**magrittr**](https://github.com/smbache/magrittr) | R package to bring forward-piping features ala F#'s |> operator. Ceci n'est pas un pipe. | [:arrow_upper_right:](http://cran.r-project.org/web/packages/magrittr/index.html)
@@ -947,7 +983,9 @@
 2 | [@fghjorth](https://github.com/fghjorth)/[**danishpolls**](https://github.com/fghjorth/danishpolls) | R code for extracting and analyzing Danish general election polling data |
 2 | [@stanstrup](https://github.com/stanstrup)/[**PredRet**](https://github.com/stanstrup/PredRet) | Shiny app for retention time prediction |
 2 | [@smbache](https://github.com/smbache)/[**blatr**](https://github.com/smbache/blatr) | A simple R wrapper for Blat SMTP mailer for Windows. |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 701 | [@lassebunk](https://github.com/lassebunk)/[**gretel**](https://github.com/lassebunk/gretel) | Flexible Ruby on Rails breadcrumbs plugin. |
@@ -1035,7 +1073,9 @@
 2 | [@lukelex](https://github.com/lukelex)/[**csvash**](https://github.com/lukelex/csvash) | Simplify CSV to Model mapping and vice versa | [:arrow_upper_right:](http://lukelex.github.com/csvash/)
 2 | [@sorbits](https://github.com/sorbits)/[**github-email-api**](https://github.com/sorbits/github-email-api) | Assign labels and close issues via email |
 2 | [@koppen](https://github.com/koppen)/[**bottleships**](https://github.com/koppen/bottleships) | Pitch your algorithm versus those of your friends in the epic game of Battleships. May the best bot win. |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 11 | [@mads379](https://github.com/mads379)/[**Functional-Dictionar…**](https://github.com/mads379/Functional-Dictionary) | A Lift based web application. It's a dictionary of Functional Programming terms. | [:arrow_upper_right:](http://functionaldictionary.mads379.staxapps.net/)
@@ -1047,7 +1087,9 @@
 2 | [@mads379](https://github.com/mads379)/[**monad-transformers-p…**](https://github.com/mads379/monad-transformers-presentation) | Code used for a presentation on Monad Transformers in Scalaz 7 |
 2 | [@jeppenejsum](https://github.com/jeppenejsum)/[**lift-gc-ajax**](https://github.com/jeppenejsum/lift-gc-ajax) |  |
 2 | [@jeppenejsum](https://github.com/jeppenejsum)/[**gdata-scala-client**](https://github.com/jeppenejsum/gdata-scala-client) | Fork of gdata-scala-client | [:arrow_upper_right:](http://code.google.com/p/gdata-scala-client/)
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 925 | [@andsens](https://github.com/andsens)/[**homeshick**](https://github.com/andsens/homeshick) | git dotfiles synchronizer written in bash |
@@ -1057,14 +1099,19 @@
 4 | [@holsta](https://github.com/holsta)/[**sitexytools**](https://github.com/holsta/sitexytools) | Helper utilities for managing siteXY.tgz files related to OpenBSD installation | [:arrow_upper_right:](http://mongers.org/openbsd/siteXYtools/)
 4 | [@holsta](https://github.com/holsta)/[**dotfiles**](https://github.com/holsta/dotfiles) | holsta's dotfiles for OpenBSD desktop and OS X laptop |
 2 | [@swordfischer](https://github.com/swordfischer)/[**Snapper**](https://github.com/swordfischer/Snapper) |  |
+
 ### TeX #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@mikkelam](https://github.com/mikkelam)/[**D502e13**](https://github.com/mikkelam/D502e13) | Datalogi 5. semester efteråret 2013 |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@ipoddubny](https://github.com/ipoddubny)/[**asterisk-vim**](https://github.com/ipoddubny/asterisk-vim) | Vim syntax highlighting for Asterisk configuration files |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
